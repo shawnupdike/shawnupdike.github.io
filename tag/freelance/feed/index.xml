@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Freelance Archives - Shawn Updike Web Developer</title>
+	<atom:link href="https://shawnupdike.github.io/tag/freelance/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shawnupdike.github.io/tag/freelance/</link>
+	<description>Join Vision &#38; Reality to Create Value</description>
+	<lastBuildDate>Sat, 22 Jul 2023 18:11:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://shawnupdike.github.io/wp-content/uploads/2021/04/Site-Favicon-2023-150x150.png</url>
+	<title>Freelance Archives - Shawn Updike Web Developer</title>
+	<link>https://shawnupdike.github.io/tag/freelance/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>David P. Cortese Law Website Rebuild</title>
+		<link>https://shawnupdike.github.io/legally-designing/</link>
+					<comments>https://shawnupdike.github.io/legally-designing/#respond</comments>
+		
+		<dc:creator><![CDATA[updikes@ymail.com]]></dc:creator>
+		<pubDate>Sun, 11 Apr 2021 15:31:58 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Client]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[Freelance]]></category>
+		<category><![CDATA[Law Office]]></category>
+		<category><![CDATA[Redesign]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">https://shawnupdike.github.io/?p=163</guid>
+
+					<description><![CDATA[<p>Website Reboot. Problem: Redesign an outdated law firm website and bring it to a modern standard of both trust from a consumer’s view &#38; sophistication to represent the firm in a credible manner. His original site was very outdated and had a lot of broken user interface. There needed to be some info added to [&#8230;]</p>
+<p>The post <a href="https://shawnupdike.github.io/legally-designing/">David P. Cortese Law Website Rebuild</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="163" class="elementor elementor-163" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-4568db60 elementor-section-height-full elementor-section-items-top elementor-section-full_width elementor-hidden-phone animated-slow elementor-section-height-default elementor-invisible" data-id="4568db60" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11518,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/LD-2022.png&quot;}],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-535c3cd5" data-id="535c3cd5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-71eeec4f elementor-widget__width-inherit elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-html" data-id="71eeec4f" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7598a4b1 elementor-section-height-min-height elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-items-bottom elementor-section-height-default" data-id="7598a4b1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11566,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/Cortese-Mobile-Option-2022.png&quot;}],&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5dc220a7" data-id="5dc220a7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-45a3abd4 elementor-widget__width-inherit elementor-hidden-desktop elementor-hidden-tablet elementor-widget-mobile__width-inherit elementor-widget elementor-widget-html" data-id="45a3abd4" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here2"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-428a752 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="428a752" data-element_type="section" id="scroll_here">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6c606fd6 animated-slow elementor-invisible" data-id="6c606fd6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bbd5539 elementor-widget elementor-widget-heading" data-id="bbd5539" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Website Reboot.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fba24b6 elementor-widget elementor-widget-heading" data-id="fba24b6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-336a3f7 elementor-widget elementor-widget-text-editor" data-id="336a3f7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Redesign an outdated law firm website and bring it to a modern standard of both trust from a consumer’s view &amp; sophistication to represent the firm in a credible manner. His original site was very outdated and had a lot of broken user interface. There needed to be some info added to certain areas to really give the user a core understanding of what they were engaging with and why.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5352f70 elementor-widget elementor-widget-video" data-id="5352f70" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;play_on_mobile&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Cortese.mp4" autoplay="" loop="" muted="muted" playsinline="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9464df2 elementor-widget elementor-widget-heading" data-id="9464df2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Worth while result!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1ac4bbc elementor-widget elementor-widget-heading" data-id="1ac4bbc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cdcdaa5 elementor-widget elementor-widget-text-editor" data-id="cdcdaa5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>David was more than happy with the end result. It has been years since his original site was launched, I was very motivated to assist him in updated a critical asset of his day to day business operations. One of the earliest freelance web developing experiences that I can confidently say got myself on the right path.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2863d379 animated-slow elementor-invisible" data-id="2863d379" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2c41a1d2 elementor-widget elementor-widget-image" data-id="2c41a1d2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo.png" class="attachment-large size-large wp-image-10810" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-f372aaa elementor-widget elementor-widget-heading" data-id="f372aaa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Reconfigure </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-38471f2 elementor-widget elementor-widget-heading" data-id="38471f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ad25dbd elementor-widget elementor-widget-text-editor" data-id="ad25dbd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>I began with migrating his old website from Bluehost to WordPress hosting. From there photo assets were gathered along with info content describing what the firm’s services were. Font’s, colors &amp; hierarchy got a nice makeover.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7380d984 elementor-widget elementor-widget-image" data-id="7380d984" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+										<figure class="wp-caption">
+											<a href="http://www.corteselegal.com/" target="_blank">
+							<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup.png" class="elementor-animation-shrink attachment-large size-large wp-image-10811" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">VISIT CORTESE LEGAL WEBSITE</figcaption>
+										</figure>
+							</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fa8550f elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fa8550f" data-element_type="section" id="scroll_here2" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2e7dd974" data-id="2e7dd974" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d03df24 elementor-widget elementor-widget-heading" data-id="d03df24" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Website Reboot</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b6b561b elementor-widget elementor-widget-heading" data-id="b6b561b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6614747 elementor-widget elementor-widget-text-editor" data-id="6614747" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Redesign an outdated law firm website and bring it to a modern standard of both trust from a consumer’s view &amp; sophistication to represent the firm in a credible manner. His original site was very outdated and had a lot of broken user interface. There needed to be some info added to certain areas to really give the user a core understanding of what they were engaging with and why.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6d37f8c5 elementor-widget elementor-widget-image" data-id="6d37f8c5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup.png" class="attachment-large size-large wp-image-10811" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Homepage-Mockup-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-cf8c318 elementor-widget elementor-widget-heading" data-id="cf8c318" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Reconfigure</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-47fbb10 elementor-widget elementor-widget-heading" data-id="47fbb10" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1f78854 elementor-widget elementor-widget-text-editor" data-id="1f78854" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>I began with migrating his old website from Bluehost to WordPress hosting. From there photo assets were gathered along with info content describing what the firm’s services were. Font’s, colors &amp; hierarchy got a nice makeover.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d6482da elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6482da" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-36392697" data-id="36392697" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1e0990dd elementor-widget elementor-widget-image" data-id="1e0990dd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo.png" class="attachment-large size-large wp-image-10810" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Candid-Photo-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-b75ecc2 elementor-widget elementor-widget-heading" data-id="b75ecc2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Worth While Result!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-13dad6b elementor-widget elementor-widget-heading" data-id="13dad6b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b160839 elementor-widget elementor-widget-text-editor" data-id="b160839" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>David was more than happy with the end result. It has been years since his original site was launched, I was very motivated to assist him in updated a critical asset of his day to day business operations. One of the earliest freelance web developing experiences that I can confidently say got myself on the right path.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3dcd7a06 elementor-widget elementor-widget-image" data-id="3dcd7a06" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="http://www.corteselegal.com/" target="_blank">
+							<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Malet-1.png" class="attachment-large size-large wp-image-10817" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Malet-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Malet-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Malet-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Malet-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
+													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a53cd41 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a53cd41" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d01dec4 animated-slow elementor-invisible" data-id="d01dec4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_tablet&quot;:&quot;slideInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-401921b elementor-widget elementor-widget-heading" data-id="401921b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Testimonial</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d07955c elementor-widget elementor-widget-text-editor" data-id="d07955c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&#8220;Thanks for the great work on my site! I get a lot of compliments, and steady contacts that originate from the site&#8230;&#8221;</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-affe17b elementor-widget elementor-widget-text-editor" data-id="affe17b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&#8220;It&#8217;s a great asset to my business and your talents clearly show through here. Thanks again!&#8221;</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2365778 elementor-widget elementor-widget-text-editor" data-id="2365778" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&#8211; David P. Cortese  |  Attorney at Law, Law Office of David P. Cortese</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d45b85e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d45b85e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-626cc41" data-id="626cc41" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-827f30c elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="827f30c" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/risk/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">RISK Quik Quit App</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/smaht-weather/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Next</span><span class="post-navigation__next--title">Smaht Weather Mobile App</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="https://shawnupdike.github.io/legally-designing/">David P. Cortese Law Website Rebuild</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://shawnupdike.github.io/legally-designing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://shawnupdike.github.io/wp-content/uploads/2021/04/Cortese.mp4" length="162" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

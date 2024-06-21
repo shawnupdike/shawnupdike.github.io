@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>User Interface Archives - Shawn Updike Web Developer</title>
+	<atom:link href="https://shawnupdike.github.io/tag/user-interface/feed/" rel="self" type="application/rss+xml" />
+	<link>https://shawnupdike.github.io/tag/user-interface/</link>
+	<description>Join Vision &#38; Reality to Create Value</description>
+	<lastBuildDate>Sat, 12 Aug 2023 21:41:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>https://shawnupdike.github.io/wp-content/uploads/2021/04/Site-Favicon-2023-150x150.png</url>
+	<title>User Interface Archives - Shawn Updike Web Developer</title>
+	<link>https://shawnupdike.github.io/tag/user-interface/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BDC Client: Ballard&#8217;s UI Interface Refresh</title>
+		<link>https://shawnupdike.github.io/bdc-client-ballards-ui-interface-refresh/</link>
+		
+		<dc:creator><![CDATA[updikes@ymail.com]]></dc:creator>
+		<pubDate>Thu, 05 Jan 2023 22:16:07 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User Interface]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">https://shawnupdike.github.io/?p=11775</guid>
+
+					<description><![CDATA[<p>Summer Time Problem: Redesign the user experience of Ballard&#8217;s reservation portal. Create a more user friendly approach in the design of the application and thus help with Ballard&#8217;s online conversion rates when reserving some of the services Ballard&#8217;s has to offer, such as a private Cabana. Soak in the Sun Solution: The end result was [&#8230;]</p>
+<p>The post <a href="https://shawnupdike.github.io/bdc-client-ballards-ui-interface-refresh/">BDC Client: Ballard&#8217;s UI Interface Refresh</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="11775" class="elementor elementor-11775" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b5903a6 elementor-section-height-full elementor-section-items-top elementor-section-full_width elementor-hidden-phone animated-slow elementor-section-height-default elementor-invisible" data-id="b5903a6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11776,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2023\/01\/BALLARDS-2022.png&quot;}],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0bedbe1" data-id="0bedbe1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5373db4 elementor-widget__width-inherit elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-html" data-id="5373db4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a8a3ca elementor-section-height-min-height elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-items-bottom elementor-hidden-mobile elementor-section-height-default" data-id="3a8a3ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11524,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/Mobile-Option-2022.png&quot;}],&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7324834" data-id="7324834" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ec303b3 elementor-widget__width-auto elementor-absolute elementor-widget-mobile__width-auto elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="ec303b3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMTUwIiwidG9nZ2xlIjpmYWxzZX0%3D">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="fas fa-stream"></i>			</span>
+								</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0a35d76 elementor-widget__width-inherit elementor-hidden-desktop elementor-hidden-tablet elementor-widget-mobile__width-inherit elementor-widget elementor-widget-html" data-id="0a35d76" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here2"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a26c712 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a26c712" data-element_type="section" id="scroll_here">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1c4b008 animated-slow elementor-invisible" data-id="1c4b008" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3b2a117 elementor-widget elementor-widget-heading" data-id="3b2a117" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Summer Time</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f71a6bb elementor-widget elementor-widget-heading" data-id="f71a6bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2426079 elementor-widget elementor-widget-text-editor" data-id="2426079" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Redesign the user experience of Ballard&#8217;s reservation portal. Create a more user friendly approach in the design of the application and thus help with Ballard&#8217;s online conversion rates when reserving some of the services Ballard&#8217;s has to offer, such as a private Cabana. </p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f448546 elementor-widget elementor-widget-image" data-id="f448546" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards.png" class="attachment-large size-large wp-image-11777" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-0dda96f elementor-widget elementor-widget-heading" data-id="0dda96f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Soak in the Sun</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0e808db elementor-widget elementor-widget-heading" data-id="0e808db" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2242409 elementor-widget elementor-widget-text-editor" data-id="2242409" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The end result was successful, the idea was passed off to Ballard&#8217;s after reviewing with BDC team, their next steps would be to develop this out through BDC to implement it in their day to day operations.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c91fd5a animated-slow elementor-invisible" data-id="c91fd5a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d56d86d elementor-widget elementor-widget-image" data-id="d56d86d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/08/Ballards_Base_Image.png" class="attachment-large size-large wp-image-12585" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/08/Ballards_Base_Image.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Ballards_Base_Image-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Ballards_Base_Image-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Ballards_Base_Image-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-f65eb56 elementor-widget elementor-widget-heading" data-id="f65eb56" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Big Waves</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8114750 elementor-widget elementor-widget-heading" data-id="8114750" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bb1060f elementor-widget elementor-widget-text-editor" data-id="bb1060f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The initial approach when it came to redesigning the UX of their booking application was to go with a less is more mentality. Remove the clutter and make it very direct and simple for the user. Using Adobe XD to simulate the user journey and Ai to flesh out the overall design the road to bringing a fresh concept to Ballard&#8217;s was clear.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a203b8d elementor-widget elementor-widget-image" data-id="a203b8d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards.png" class="attachment-large size-large wp-image-11777" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-81bc1f9 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81bc1f9" data-element_type="section" id="scroll_here2" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-18f9ba8" data-id="18f9ba8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e03b5f5 elementor-widget elementor-widget-heading" data-id="e03b5f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Goodbye, Good Riddance.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ab026d elementor-widget elementor-widget-heading" data-id="2ab026d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8050018 elementor-widget elementor-widget-text-editor" data-id="8050018" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Design a website that features an event or call to action that encourages the user to want to engage in the real-life event through an effective &amp; simple marketing strategy presented through the micro-site. The Rolling Stone’s Bandemic Warp Tour is the embodiment of what being in your youth is all about.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f4802f0 elementor-widget elementor-widget-image" data-id="f4802f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png" class="attachment-large size-large wp-image-10009" alt="Web design mobile responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-ae013ed elementor-widget elementor-widget-heading" data-id="ae013ed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Party Time!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67643bb elementor-widget elementor-widget-heading" data-id="67643bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c42905 elementor-widget elementor-widget-text-editor" data-id="3c42905" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Concept was rooted in the idea of putting on a live music event where collective artists from different genres would perform post pandemic that was organized by the Rolling Stones. Wire-frames &amp; testing occurred in Adobe XD &amp; later coded into a working site. The theme is within the name of the festival “Bandemic”, hence we need to band together afterwards together over music and festivities.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-46e1dc1 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46e1dc1" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-98abf16" data-id="98abf16" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ee549c elementor-widget elementor-widget-image" data-id="6ee549c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png" class="attachment-large size-large wp-image-10010" alt="Web design responsive mobile view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-3fea9af elementor-widget elementor-widget-heading" data-id="3fea9af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">No Regrets.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a986c5b elementor-widget elementor-widget-heading" data-id="a986c5b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6e4b507 elementor-widget elementor-widget-text-editor" data-id="6e4b507" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This site has very simple navigation and is completed functional via Javascript and JQuery with a concrete foundation in both HTML and Sass. This site was a success with the simplistic and edgy branding.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b6db7eb elementor-widget elementor-widget-image" data-id="b6db7eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png" class="attachment-large size-large wp-image-10011" alt="Web design responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b872c50 elementor-hidden-mobile elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b872c50" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ebacac animated-slow elementor-invisible" data-id="5ebacac" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_tablet&quot;:&quot;slideInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-96a0b79 elementor-widget elementor-widget-image" data-id="96a0b79" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4.png" class="attachment-full size-full wp-image-10025" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4013cd elementor-hidden-mobile elementor-hidden-tablet elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4013cd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d914604 animated-slow elementor-invisible" data-id="d914604" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-53d596e elementor-widget elementor-widget-image" data-id="53d596e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5.png" class="attachment-full size-full wp-image-10026" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cfd3ebb animated-slow elementor-invisible" data-id="cfd3ebb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e602b7c elementor-widget elementor-widget-e_image_hover_effects" data-id="e602b7c" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<a href="https://shawnupdike.github.io/Bandemic/" target="_blank">
+					<div class="eihe-box eihe-blur eihe_center">
+				<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards.png" class="attachment-full size-full wp-image-11777" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Ballards-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h2 class="eihe-title">VISIT BANDEMIC WEBSITE</h2>
+											</div>
+					<p></p>
+				</div>
+			</div>
+					</a>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-61c0d4e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="61c0d4e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1693493" data-id="1693493" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-516372f elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="516372f" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/bdc-client-falmouth-marine-website-rebuild/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">BDC Client: Falmouth Marine Website Rebuild</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="https://shawnupdike.github.io/bdc-client-ballards-ui-interface-refresh/">BDC Client: Ballard&#8217;s UI Interface Refresh</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BDC Client: Falmouth Marine Website Rebuild</title>
+		<link>https://shawnupdike.github.io/bdc-client-falmouth-marine-website-rebuild/</link>
+		
+		<dc:creator><![CDATA[updikes@ymail.com]]></dc:creator>
+		<pubDate>Thu, 05 Jan 2023 21:44:01 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User Interface]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">https://shawnupdike.github.io/?p=11762</guid>
+
+					<description><![CDATA[<p>Set Sail Problem: Rebuild Falmouth Marine&#8217;s existing site and refresh the user experience to be more compliant with current best practices in the site&#8217;s web design. Keeping the company&#8217;s brand standards in mind whilst updating the look and feel of the website. Full Sail Ahead Solution: The end result was successful, after review with BDC [&#8230;]</p>
+<p>The post <a href="https://shawnupdike.github.io/bdc-client-falmouth-marine-website-rebuild/">BDC Client: Falmouth Marine Website Rebuild</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="11762" class="elementor elementor-11762" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b5903a6 elementor-section-height-full elementor-section-items-top elementor-section-full_width elementor-hidden-phone animated-slow elementor-section-height-default elementor-invisible" data-id="b5903a6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11765,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2023\/01\/FALMOUTH-2022.png&quot;}],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0bedbe1" data-id="0bedbe1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5373db4 elementor-widget__width-inherit elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-html" data-id="5373db4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a8a3ca elementor-section-height-min-height elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-items-bottom elementor-hidden-mobile elementor-section-height-default" data-id="3a8a3ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11524,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/Mobile-Option-2022.png&quot;}],&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7324834" data-id="7324834" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ec303b3 elementor-widget__width-auto elementor-absolute elementor-widget-mobile__width-auto elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="ec303b3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMTUwIiwidG9nZ2xlIjpmYWxzZX0%3D">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="fas fa-stream"></i>			</span>
+								</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0a35d76 elementor-widget__width-inherit elementor-hidden-desktop elementor-hidden-tablet elementor-widget-mobile__width-inherit elementor-widget elementor-widget-html" data-id="0a35d76" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here2"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ab65180 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab65180" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-21c86be animated-slow elementor-invisible" data-id="21c86be" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-79d3226 elementor-widget elementor-widget-heading" data-id="79d3226" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Set Sail</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-44acfb0 elementor-widget elementor-widget-heading" data-id="44acfb0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-22200c6 elementor-widget elementor-widget-text-editor" data-id="22200c6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Rebuild Falmouth Marine&#8217;s existing site and refresh the user experience to be more compliant with current best practices in the site&#8217;s web design. Keeping the company&#8217;s brand standards in mind whilst updating the look and feel of the website.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6292649 elementor-widget elementor-widget-image" data-id="6292649" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image.png" class="attachment-large size-large wp-image-12586" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-d4357f8 elementor-widget elementor-widget-heading" data-id="d4357f8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Full Sail Ahead</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3a7f7ef elementor-widget elementor-widget-heading" data-id="3a7f7ef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-232fcd1 elementor-widget elementor-widget-text-editor" data-id="232fcd1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The end result was successful, after review with BDC team, the newly renovated site was passed off to Falmouth Marine where they use it to this day. We received nothing but positive feedback after the hand off which is always great hear!</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-66ceb6a animated-slow elementor-invisible" data-id="66ceb6a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cd7eee5 elementor-widget elementor-widget-image" data-id="cd7eee5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image.png" class="attachment-large size-large wp-image-12586" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-b95af61 elementor-widget elementor-widget-heading" data-id="b95af61" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Ship Stern</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-104037a elementor-widget elementor-widget-heading" data-id="104037a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6c44331 elementor-widget elementor-widget-text-editor" data-id="6c44331" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>When redesigning Falmouth&#8217;s site, the site&#8217;s identity was to remain the same with a better user journey throughout the site. This was accomplished by using newly provided imagery and utilizing Elementor in WordPress to rebuild page&#8217;s from the ground up in a modern format that would better represent what Falmouth Marine is all about.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2f52e1c elementor-widget elementor-widget-image" data-id="2f52e1c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image.png" class="attachment-large size-large wp-image-12586" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Falmouth_Marine_Base_Image-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-81bc1f9 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81bc1f9" data-element_type="section" id="scroll_here2" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-18f9ba8" data-id="18f9ba8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e03b5f5 elementor-widget elementor-widget-heading" data-id="e03b5f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Goodbye, Good Riddance.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ab026d elementor-widget elementor-widget-heading" data-id="2ab026d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8050018 elementor-widget elementor-widget-text-editor" data-id="8050018" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Design a website that features an event or call to action that encourages the user to want to engage in the real-life event through an effective &amp; simple marketing strategy presented through the micro-site. The Rolling Stone’s Bandemic Warp Tour is the embodiment of what being in your youth is all about.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f4802f0 elementor-widget elementor-widget-image" data-id="f4802f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png" class="attachment-large size-large wp-image-10009" alt="Web design mobile responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-ae013ed elementor-widget elementor-widget-heading" data-id="ae013ed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Party Time!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67643bb elementor-widget elementor-widget-heading" data-id="67643bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c42905 elementor-widget elementor-widget-text-editor" data-id="3c42905" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Concept was rooted in the idea of putting on a live music event where collective artists from different genres would perform post pandemic that was organized by the Rolling Stones. Wire-frames &amp; testing occurred in Adobe XD &amp; later coded into a working site. The theme is within the name of the festival “Bandemic”, hence we need to band together afterwards together over music and festivities.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-46e1dc1 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46e1dc1" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-98abf16" data-id="98abf16" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ee549c elementor-widget elementor-widget-image" data-id="6ee549c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png" class="attachment-large size-large wp-image-10010" alt="Web design responsive mobile view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-3fea9af elementor-widget elementor-widget-heading" data-id="3fea9af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">No Regrets.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a986c5b elementor-widget elementor-widget-heading" data-id="a986c5b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6e4b507 elementor-widget elementor-widget-text-editor" data-id="6e4b507" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This site has very simple navigation and is completed functional via Javascript and JQuery with a concrete foundation in both HTML and Sass. This site was a success with the simplistic and edgy branding.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b6db7eb elementor-widget elementor-widget-image" data-id="b6db7eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png" class="attachment-large size-large wp-image-10011" alt="Web design responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b872c50 elementor-hidden-mobile elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b872c50" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ebacac animated-slow elementor-invisible" data-id="5ebacac" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_tablet&quot;:&quot;slideInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-96a0b79 elementor-widget elementor-widget-image" data-id="96a0b79" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4.png" class="attachment-full size-full wp-image-10025" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4013cd elementor-hidden-mobile elementor-hidden-tablet elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4013cd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d914604 animated-slow elementor-invisible" data-id="d914604" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-53d596e elementor-widget elementor-widget-image" data-id="53d596e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5.png" class="attachment-full size-full wp-image-10026" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cfd3ebb animated-slow elementor-invisible" data-id="cfd3ebb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e602b7c elementor-widget elementor-widget-e_image_hover_effects" data-id="e602b7c" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<a href="https://shawnupdike.github.io/Bandemic/" target="_blank">
+					<div class="eihe-box eihe-blur eihe_center">
+				<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/Falmouth.png" class="attachment-full size-full wp-image-11763" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/Falmouth.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Falmouth-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Falmouth-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Falmouth-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h2 class="eihe-title">VISIT BANDEMIC WEBSITE</h2>
+											</div>
+					<p></p>
+				</div>
+			</div>
+					</a>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7c4f2e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c4f2e3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed1d143" data-id="ed1d143" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-56792df elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="56792df" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/bdc-client-millers-franchise-website-rebuild/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">BDC Client: Millers Franchise Website Rebuild</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/bdc-client-ballards-ui-interface-refresh/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Next</span><span class="post-navigation__next--title">BDC Client: Ballard&#8217;s UI Interface Refresh</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="https://shawnupdike.github.io/bdc-client-falmouth-marine-website-rebuild/">BDC Client: Falmouth Marine Website Rebuild</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BDC Client: Millers Franchise Website Rebuild</title>
+		<link>https://shawnupdike.github.io/bdc-client-millers-franchise-website-rebuild/</link>
+		
+		<dc:creator><![CDATA[updikes@ymail.com]]></dc:creator>
+		<pubDate>Thu, 05 Jan 2023 21:11:45 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Brand Development]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User Interface]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">https://shawnupdike.github.io/?p=11749</guid>
+
+					<description><![CDATA[<p>May I take your order? Problem: Miller&#8217;s recently had a brand identity revamp, this new image brought more life and iconic element&#8217;s to their beloved franchise. With this, they approached BDC with a request to revamp their website to match their new and now current brand standards they we&#8217;re moving forward with. Order Up! Solution: [&#8230;]</p>
+<p>The post <a href="https://shawnupdike.github.io/bdc-client-millers-franchise-website-rebuild/">BDC Client: Millers Franchise Website Rebuild</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="11749" class="elementor elementor-11749" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b5903a6 elementor-section-height-full elementor-section-items-top elementor-section-full_width elementor-hidden-phone animated-slow elementor-section-height-default elementor-invisible" data-id="b5903a6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11750,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2023\/01\/MILLERS-2023.png&quot;}],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0bedbe1" data-id="0bedbe1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5373db4 elementor-widget__width-inherit elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-html" data-id="5373db4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a8a3ca elementor-section-height-min-height elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-items-bottom elementor-hidden-mobile elementor-section-height-default" data-id="3a8a3ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11524,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/Mobile-Option-2022.png&quot;}],&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7324834" data-id="7324834" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ec303b3 elementor-widget__width-auto elementor-absolute elementor-widget-mobile__width-auto elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="ec303b3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMTUwIiwidG9nZ2xlIjpmYWxzZX0%3D">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="fas fa-stream"></i>			</span>
+								</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0a35d76 elementor-widget__width-inherit elementor-hidden-desktop elementor-hidden-tablet elementor-widget-mobile__width-inherit elementor-widget elementor-widget-html" data-id="0a35d76" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here2"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6b9469b elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6b9469b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cebde51 animated-slow elementor-invisible" data-id="cebde51" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-812457c elementor-widget elementor-widget-heading" data-id="812457c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">May I take your order?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-225d303 elementor-widget elementor-widget-heading" data-id="225d303" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-881aac5 elementor-widget elementor-widget-text-editor" data-id="881aac5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Miller&#8217;s recently had a brand identity revamp, this new image brought more life and iconic element&#8217;s to their beloved franchise. With this, they approached BDC with a request to revamp their website to match their new and now current brand standards they we&#8217;re moving forward with.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-39ac842 elementor-widget elementor-widget-image" data-id="39ac842" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image.png" class="attachment-large size-large wp-image-12587" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-f8420eb elementor-widget elementor-widget-heading" data-id="f8420eb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Order Up!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9a28041 elementor-widget elementor-widget-heading" data-id="9a28041" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ff5e71a elementor-widget elementor-widget-text-editor" data-id="ff5e71a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The end result was an unusual one, we had many team meetings to both strategy and review different stages for where we stood in the project. In the end we ended up putting this project on hold, however to me this seems like a prominent project to feature nonetheless due to the complexity and scale of this project being both fun and challenging to work on in the end.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5783e1e animated-slow elementor-invisible" data-id="5783e1e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ed43d07 elementor-widget elementor-widget-image" data-id="ed43d07" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image.png" class="attachment-large size-large wp-image-12587" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-038be4b elementor-widget elementor-widget-heading" data-id="038be4b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">What's Cookin'?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d61ded1 elementor-widget elementor-widget-heading" data-id="d61ded1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ef6e26 elementor-widget elementor-widget-text-editor" data-id="2ef6e26" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>There was a lot that need to be taken into account here. After they has provided their new standards and assets to us, we went right to work in curated web optimized assets and creating a library of elements to be used on the site. Afterwards we then moved to wire-framing and creating the skeleton of the new site. Once those we&#8217;re in place we built out the header, footer, main pages, sub-pages and child-pages alike to meet their deadline.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e554924 elementor-widget elementor-widget-image" data-id="e554924" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image.png" class="attachment-large size-large wp-image-12587" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/08/Millers_Base_Image-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-81bc1f9 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81bc1f9" data-element_type="section" id="scroll_here2" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-18f9ba8" data-id="18f9ba8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e03b5f5 elementor-widget elementor-widget-heading" data-id="e03b5f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Goodbye, Good Riddance.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ab026d elementor-widget elementor-widget-heading" data-id="2ab026d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8050018 elementor-widget elementor-widget-text-editor" data-id="8050018" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Design a website that features an event or call to action that encourages the user to want to engage in the real-life event through an effective &amp; simple marketing strategy presented through the micro-site. The Rolling Stone’s Bandemic Warp Tour is the embodiment of what being in your youth is all about.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f4802f0 elementor-widget elementor-widget-image" data-id="f4802f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png" class="attachment-large size-large wp-image-10009" alt="Web design mobile responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-ae013ed elementor-widget elementor-widget-heading" data-id="ae013ed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Party Time!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67643bb elementor-widget elementor-widget-heading" data-id="67643bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c42905 elementor-widget elementor-widget-text-editor" data-id="3c42905" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Concept was rooted in the idea of putting on a live music event where collective artists from different genres would perform post pandemic that was organized by the Rolling Stones. Wire-frames &amp; testing occurred in Adobe XD &amp; later coded into a working site. The theme is within the name of the festival “Bandemic”, hence we need to band together afterwards together over music and festivities.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-46e1dc1 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46e1dc1" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-98abf16" data-id="98abf16" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ee549c elementor-widget elementor-widget-image" data-id="6ee549c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png" class="attachment-large size-large wp-image-10010" alt="Web design responsive mobile view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-3fea9af elementor-widget elementor-widget-heading" data-id="3fea9af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">No Regrets.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a986c5b elementor-widget elementor-widget-heading" data-id="a986c5b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6e4b507 elementor-widget elementor-widget-text-editor" data-id="6e4b507" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This site has very simple navigation and is completed functional via Javascript and JQuery with a concrete foundation in both HTML and Sass. This site was a success with the simplistic and edgy branding.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b6db7eb elementor-widget elementor-widget-image" data-id="b6db7eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png" class="attachment-large size-large wp-image-10011" alt="Web design responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b872c50 elementor-hidden-mobile elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b872c50" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ebacac animated-slow elementor-invisible" data-id="5ebacac" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_tablet&quot;:&quot;slideInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-96a0b79 elementor-widget elementor-widget-image" data-id="96a0b79" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4.png" class="attachment-full size-full wp-image-10025" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4013cd elementor-hidden-mobile elementor-hidden-tablet elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4013cd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d914604 animated-slow elementor-invisible" data-id="d914604" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-53d596e elementor-widget elementor-widget-image" data-id="53d596e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5.png" class="attachment-full size-full wp-image-10026" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cfd3ebb animated-slow elementor-invisible" data-id="cfd3ebb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e602b7c elementor-widget elementor-widget-e_image_hover_effects" data-id="e602b7c" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<a href="https://shawnupdike.github.io/Bandemic/" target="_blank">
+					<div class="eihe-box eihe-blur eihe_center">
+				<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/Millers.png" class="attachment-full size-full wp-image-11751" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/Millers.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Millers-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Millers-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Millers-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h2 class="eihe-title">VISIT BANDEMIC WEBSITE</h2>
+											</div>
+					<p></p>
+				</div>
+			</div>
+					</a>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c1712e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c1712e2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-11be1f9" data-id="11be1f9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-206a85d elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="206a85d" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/sffi-web-redesign/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">SFFI Web Redesign</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/bdc-client-falmouth-marine-website-rebuild/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Next</span><span class="post-navigation__next--title">BDC Client: Falmouth Marine Website Rebuild</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="https://shawnupdike.github.io/bdc-client-millers-franchise-website-rebuild/">BDC Client: Millers Franchise Website Rebuild</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SFFI Web Redesign</title>
+		<link>https://shawnupdike.github.io/sffi-web-redesign/</link>
+		
+		<dc:creator><![CDATA[updikes@ymail.com]]></dc:creator>
+		<pubDate>Thu, 05 Jan 2023 16:50:26 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User Interface]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">https://shawnupdike.github.io/?p=11728</guid>
+
+					<description><![CDATA[<p>Make Ready.. Problem: Redesign an existing website that was created on WIX. Fix the website bugs, glitches and overall errors to being the site to a more usable and pleasant user experience. Set the site up in a simplistic four page boilerplate site structure to allow the user to navigate Safety First Firearms Instruction (SFFI) [&#8230;]</p>
+<p>The post <a href="https://shawnupdike.github.io/sffi-web-redesign/">SFFI Web Redesign</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="11728" class="elementor elementor-11728" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b5903a6 elementor-section-height-full elementor-section-items-top elementor-section-full_width elementor-hidden-phone animated-slow elementor-section-height-default elementor-invisible" data-id="b5903a6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11735,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2023\/01\/SFFI-2022-1.png&quot;}],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0bedbe1" data-id="0bedbe1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5373db4 elementor-widget__width-inherit elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-html" data-id="5373db4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a8a3ca elementor-section-height-min-height elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-items-bottom elementor-hidden-mobile elementor-section-height-default" data-id="3a8a3ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11524,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/Mobile-Option-2022.png&quot;}],&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7324834" data-id="7324834" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0a35d76 elementor-widget__width-inherit elementor-hidden-desktop elementor-hidden-tablet elementor-widget-mobile__width-inherit elementor-widget elementor-widget-html" data-id="0a35d76" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here2"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a26c712 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a26c712" data-element_type="section" id="scroll_here">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1c4b008 animated-slow elementor-invisible" data-id="1c4b008" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3645504 elementor-widget elementor-widget-heading" data-id="3645504" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Make Ready..</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0eafe01 elementor-widget elementor-widget-heading" data-id="0eafe01" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-067cb9f elementor-widget elementor-widget-text-editor" data-id="067cb9f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Redesign an existing website that was created on WIX. Fix the website bugs, glitches and overall errors to being the site to a more usable and pleasant user experience. Set the site up in a simplistic four page boilerplate site structure to allow the user to navigate Safety First Firearms Instruction (SFFI) seamlessly.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f448546 elementor-widget elementor-widget-image" data-id="f448546" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/1-x-1-SFFI-MOCK-1.png" class="attachment-large size-large wp-image-11793" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/1-x-1-SFFI-MOCK-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/1-x-1-SFFI-MOCK-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/1-x-1-SFFI-MOCK-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/1-x-1-SFFI-MOCK-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-5323ba5 elementor-widget elementor-widget-heading" data-id="5323ba5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Fire!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-52e5e75 elementor-widget elementor-widget-heading" data-id="52e5e75" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a8aa374 elementor-widget elementor-widget-text-editor" data-id="a8aa374" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>I hadn&#8217;t used WIX since the early days when it was released to the public, it was the most prudent way of going about redesigning a site but I wanted to help Dave out based on his wishes, the site is complete with simple navigation, later on Dave has said he wants to do more with his site utilizing WordPress, to which I can&#8217;t wait for the real fun to begin.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c91fd5a animated-slow elementor-invisible" data-id="c91fd5a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d56d86d elementor-widget elementor-widget-image" data-id="d56d86d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI.png" class="attachment-large size-large wp-image-11730" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-7fe88ee elementor-widget elementor-widget-heading" data-id="7fe88ee" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Take Aim.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-abb5ef5 elementor-widget elementor-widget-heading" data-id="abb5ef5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a2df7c8 elementor-widget elementor-widget-text-editor" data-id="a2df7c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The approach to fixing this site was simple but incorporated modern web design strategies. Dave Vergilis, Owner / Instructor at SFFI, wanted his site to be his main hub of info about his practice. Nothing fancy with SEO enhancements or eye-catching lottie animations but a simple site to house his info. For myself this was a simple walk in the park. He requested the we make the edits to his site in WIX which I was okay doing, but know what can really be done out there on the web, it was limited potential.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a203b8d elementor-widget elementor-widget-image" data-id="a203b8d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/08/SFFI_Base_Image2.png" class="attachment-large size-large wp-image-12589" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/08/SFFI_Base_Image2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/08/SFFI_Base_Image2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/08/SFFI_Base_Image2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/08/SFFI_Base_Image2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-81bc1f9 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81bc1f9" data-element_type="section" id="scroll_here2" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-18f9ba8" data-id="18f9ba8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e03b5f5 elementor-widget elementor-widget-heading" data-id="e03b5f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Goodbye, Good Riddance.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ab026d elementor-widget elementor-widget-heading" data-id="2ab026d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8050018 elementor-widget elementor-widget-text-editor" data-id="8050018" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Design a website that features an event or call to action that encourages the user to want to engage in the real-life event through an effective &amp; simple marketing strategy presented through the micro-site. The Rolling Stone’s Bandemic Warp Tour is the embodiment of what being in your youth is all about.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f4802f0 elementor-widget elementor-widget-image" data-id="f4802f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png" class="attachment-large size-large wp-image-10009" alt="Web design mobile responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-ae013ed elementor-widget elementor-widget-heading" data-id="ae013ed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Party Time!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67643bb elementor-widget elementor-widget-heading" data-id="67643bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c42905 elementor-widget elementor-widget-text-editor" data-id="3c42905" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Concept was rooted in the idea of putting on a live music event where collective artists from different genres would perform post pandemic that was organized by the Rolling Stones. Wire-frames &amp; testing occurred in Adobe XD &amp; later coded into a working site. The theme is within the name of the festival “Bandemic”, hence we need to band together afterwards together over music and festivities.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-46e1dc1 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46e1dc1" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-98abf16" data-id="98abf16" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ee549c elementor-widget elementor-widget-image" data-id="6ee549c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png" class="attachment-large size-large wp-image-10010" alt="Web design responsive mobile view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-3fea9af elementor-widget elementor-widget-heading" data-id="3fea9af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">No Regrets.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a986c5b elementor-widget elementor-widget-heading" data-id="a986c5b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6e4b507 elementor-widget elementor-widget-text-editor" data-id="6e4b507" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This site has very simple navigation and is completed functional via Javascript and JQuery with a concrete foundation in both HTML and Sass. This site was a success with the simplistic and edgy branding.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b6db7eb elementor-widget elementor-widget-image" data-id="b6db7eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png" class="attachment-large size-large wp-image-10011" alt="Web design responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b872c50 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b872c50" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ebacac animated-slow elementor-invisible" data-id="5ebacac" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_tablet&quot;:&quot;slideInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-96a0b79 elementor-widget elementor-widget-image" data-id="96a0b79" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/16-x-9-SFFI-MOCK-3.png" class="attachment-full size-full wp-image-11795" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/16-x-9-SFFI-MOCK-3.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2023/01/16-x-9-SFFI-MOCK-3-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4013cd elementor-hidden-mobile elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4013cd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d914604 animated-slow elementor-invisible" data-id="d914604" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-53d596e elementor-widget elementor-widget-image" data-id="53d596e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/16-x-9-SFFI-MOCK-2.png" class="attachment-full size-full wp-image-11794" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/16-x-9-SFFI-MOCK-2.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2023/01/16-x-9-SFFI-MOCK-2-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cfd3ebb animated-slow elementor-invisible" data-id="cfd3ebb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e602b7c elementor-widget elementor-widget-e_image_hover_effects" data-id="e602b7c" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<a href="https://www.safety1stfirearmsinstruction.com/" target="_blank">
+					<div class="eihe-box eihe-blur eihe_center">
+				<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI.png" class="attachment-full size-full wp-image-11730" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/SFFI-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h2 class="eihe-title">VISIT SFFI WEBSITE</h2>
+											</div>
+					<p></p>
+				</div>
+			</div>
+					</a>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-190d783 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="190d783" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1292d6f" data-id="1292d6f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c188453 elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="c188453" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/fruit-basket-e-com-website/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">Fruit Basket E-Com Website</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/bdc-client-millers-franchise-website-rebuild/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Next</span><span class="post-navigation__next--title">BDC Client: Millers Franchise Website Rebuild</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="https://shawnupdike.github.io/sffi-web-redesign/">SFFI Web Redesign</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fruit Basket E-Com Website</title>
+		<link>https://shawnupdike.github.io/fruit-basket-e-com-website/</link>
+		
+		<dc:creator><![CDATA[updikes@ymail.com]]></dc:creator>
+		<pubDate>Thu, 05 Jan 2023 16:02:17 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Brand Development]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[E-Commerce]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User Interface]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">https://shawnupdike.github.io/?p=11710</guid>
+
+					<description><![CDATA[<p>Starting From Scratch&#8230; Problem: Develop a brand image and online platform where partnering school districts can have their students make an online account and trade items with other students from other districts in which Fruit Basket fulfills the delivery of said items to the student. Setup each students account to be customizable with their name, [&#8230;]</p>
+<p>The post <a href="https://shawnupdike.github.io/fruit-basket-e-com-website/">Fruit Basket E-Com Website</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="11710" class="elementor elementor-11710" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b5903a6 elementor-section-height-full elementor-section-items-top elementor-section-full_width elementor-hidden-phone animated-slow elementor-section-height-default elementor-invisible" data-id="b5903a6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11717,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2023\/01\/FRUIT-2023.png&quot;}],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0bedbe1" data-id="0bedbe1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5373db4 elementor-widget__width-inherit elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-html" data-id="5373db4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a8a3ca elementor-section-height-min-height elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-items-bottom elementor-section-height-default" data-id="3a8a3ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11524,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/Mobile-Option-2022.png&quot;}],&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7324834" data-id="7324834" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0a35d76 elementor-widget__width-inherit elementor-hidden-desktop elementor-hidden-tablet elementor-widget-mobile__width-inherit elementor-widget elementor-widget-html" data-id="0a35d76" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here2"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a26c712 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a26c712" data-element_type="section" id="scroll_here">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1c4b008 animated-slow elementor-invisible" data-id="1c4b008" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3645504 elementor-widget elementor-widget-heading" data-id="3645504" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Starting From Scratch...</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0eafe01 elementor-widget elementor-widget-heading" data-id="0eafe01" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-067cb9f elementor-widget elementor-widget-text-editor" data-id="067cb9f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Develop a brand image and online platform where partnering school districts can have their students make an online account and trade items with other students from other districts in which Fruit Basket fulfills the delivery of said items to the student. Setup each students account to be customizable with their name, school and create a carrot reward system that teachers can use to incentive students to do better in their classes. In short, an e-commerce platform without any exchange of currency and strictly have it setup like an online bartering system.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f448546 elementor-widget elementor-widget-image" data-id="f448546" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-1.png" class="attachment-large size-large wp-image-11789" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-5323ba5 elementor-widget elementor-widget-heading" data-id="5323ba5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Bon Appetite</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-52e5e75 elementor-widget elementor-widget-heading" data-id="52e5e75" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a8aa374 elementor-widget elementor-widget-text-editor" data-id="a8aa374" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Fruit Basket came together in a very non-linear fashion but it got built from the ground up with nothing more than a vision. The execution of the project took about two months to erect but had a successful conclusion. It stands as one of my most challenging endeavors to date.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c91fd5a animated-slow elementor-invisible" data-id="c91fd5a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d56d86d elementor-widget elementor-widget-image" data-id="d56d86d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Logo.png" class="attachment-large size-large wp-image-11788" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Logo.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Logo-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Logo-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Logo-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-7fe88ee elementor-widget elementor-widget-heading" data-id="7fe88ee" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Groundwork</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-abb5ef5 elementor-widget elementor-widget-heading" data-id="abb5ef5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a2df7c8 elementor-widget elementor-widget-text-editor" data-id="a2df7c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>With a very specific ask, I knew I would have to approach this project from a much less traditional angle. Owner, Donald White came to me with a vision of a brand and online forum that would allow students to online trade. Producing the foundation his brand in Illustrator and hosting and building his website through WordPress, the groundwork was laid down to really get the real work going. Donald and I would meet routinely to discuss and strategize the structure of the website and how he wanted it to function. There were several setbacks but they came with solutions.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a203b8d elementor-widget elementor-widget-image" data-id="a203b8d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-2.png" class="attachment-large size-large wp-image-11790" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-81bc1f9 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81bc1f9" data-element_type="section" id="scroll_here2" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-18f9ba8" data-id="18f9ba8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e03b5f5 elementor-widget elementor-widget-heading" data-id="e03b5f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Goodbye, Good Riddance.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ab026d elementor-widget elementor-widget-heading" data-id="2ab026d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8050018 elementor-widget elementor-widget-text-editor" data-id="8050018" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Design a website that features an event or call to action that encourages the user to want to engage in the real-life event through an effective &amp; simple marketing strategy presented through the micro-site. The Rolling Stone’s Bandemic Warp Tour is the embodiment of what being in your youth is all about.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f4802f0 elementor-widget elementor-widget-image" data-id="f4802f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png" class="attachment-large size-large wp-image-10009" alt="Web design mobile responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-ae013ed elementor-widget elementor-widget-heading" data-id="ae013ed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Party Time!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67643bb elementor-widget elementor-widget-heading" data-id="67643bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c42905 elementor-widget elementor-widget-text-editor" data-id="3c42905" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Concept was rooted in the idea of putting on a live music event where collective artists from different genres would perform post pandemic that was organized by the Rolling Stones. Wire-frames &amp; testing occurred in Adobe XD &amp; later coded into a working site. The theme is within the name of the festival “Bandemic”, hence we need to band together afterwards together over music and festivities.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-46e1dc1 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46e1dc1" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-98abf16" data-id="98abf16" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ee549c elementor-widget elementor-widget-image" data-id="6ee549c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png" class="attachment-large size-large wp-image-10010" alt="Web design responsive mobile view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-3fea9af elementor-widget elementor-widget-heading" data-id="3fea9af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">No Regrets.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a986c5b elementor-widget elementor-widget-heading" data-id="a986c5b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6e4b507 elementor-widget elementor-widget-text-editor" data-id="6e4b507" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This site has very simple navigation and is completed functional via Javascript and JQuery with a concrete foundation in both HTML and Sass. This site was a success with the simplistic and edgy branding.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b6db7eb elementor-widget elementor-widget-image" data-id="b6db7eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png" class="attachment-large size-large wp-image-10011" alt="Web design responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b872c50 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b872c50" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ebacac animated-slow elementor-invisible" data-id="5ebacac" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_tablet&quot;:&quot;slideInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-96a0b79 elementor-widget elementor-widget-image" data-id="96a0b79" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-3.png" class="attachment-full size-full wp-image-11791" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-3.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-3-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4013cd elementor-hidden-mobile elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4013cd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d914604 animated-slow elementor-invisible" data-id="d914604" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-53d596e elementor-widget elementor-widget-image" data-id="53d596e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-4.png" class="attachment-full size-full wp-image-11792" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-4.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2023/01/FB-Mockup-4-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cfd3ebb animated-slow elementor-invisible" data-id="cfd3ebb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e602b7c elementor-widget elementor-widget-e_image_hover_effects" data-id="e602b7c" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<a href="https://fruitbasketco.com/" target="_blank">
+					<div class="eihe-box eihe-blur eihe_center">
+				<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2023/01/Fruitbasket.png" class="attachment-full size-full wp-image-11711" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2023/01/Fruitbasket.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Fruitbasket-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Fruitbasket-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2023/01/Fruitbasket-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h2 class="eihe-title">VISIT FRUITBASKET WEBSITE</h2>
+											</div>
+					<p></p>
+				</div>
+			</div>
+					</a>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1361c5c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1361c5c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8a8523f" data-id="8a8523f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a5bf7fd elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="a5bf7fd" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/bandemic-web-design-project/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">Bandemic Event Microsite</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/sffi-web-redesign/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Next</span><span class="post-navigation__next--title">SFFI Web Redesign</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="https://shawnupdike.github.io/fruit-basket-e-com-website/">Fruit Basket E-Com Website</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bandemic Event Microsite</title>
+		<link>https://shawnupdike.github.io/bandemic-web-design-project/</link>
+		
+		<dc:creator><![CDATA[updikes@ymail.com]]></dc:creator>
+		<pubDate>Sun, 11 Apr 2021 16:30:44 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Brand Development]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[Media]]></category>
+		<category><![CDATA[Micro-site]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User Interface]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[Website]]></category>
+		<guid isPermaLink="false">https://shawnupdike.github.io/?p=178</guid>
+
+					<description><![CDATA[<p>Goodbye, Good Riddance. Problem: Create a web design that features an event or call to action that encourages the user to want to engage in the real-life event through an effective &#38; simple marketing strategy presented through the micro-site. The Rolling Stone’s Bandemic Warp Tour is the embodiment of what being in your youth is [&#8230;]</p>
+<p>The post <a href="https://shawnupdike.github.io/bandemic-web-design-project/">Bandemic Event Microsite</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="178" class="elementor elementor-178" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b5903a6 elementor-section-height-full elementor-section-items-top elementor-section-full_width elementor-hidden-phone animated-slow elementor-section-height-default elementor-invisible" data-id="b5903a6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11516,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/BAND-2022.png&quot;}],&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_tablet&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0bedbe1" data-id="0bedbe1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5373db4 elementor-widget__width-inherit elementor-absolute elementor-hidden-phone elementor-widget elementor-widget-html" data-id="5373db4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a8a3ca elementor-section-height-min-height elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-items-bottom elementor-section-height-default" data-id="3a8a3ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:11524,&quot;url&quot;:&quot;https:\/\/shawnupdike.github.io\/wp-content\/uploads\/2022\/04\/Mobile-Option-2022.png&quot;}],&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7324834" data-id="7324834" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0a35d76 elementor-widget__width-inherit elementor-hidden-desktop elementor-hidden-tablet elementor-widget-mobile__width-inherit elementor-widget elementor-widget-html" data-id="0a35d76" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="scroll-wrapper"><a href="#scroll_here2"><i class="scroll fas fa-chevron-circle-down"></i></a>
+
+
+
+<style>
+
+.scroll-wrapper {text-align:center;}
+
+.scroll {   
+
+    font-size: 50px;
+
+    color: #fff;
+
+    
+
+    
+
+   -webkit-animation: scrolling 5s ease infinite;
+
+   -moz-animation: scrolling 5s ease infinite;
+
+   -o-animation: scrolling 5s  ease infinite;
+
+   animation: scrolling 5s ease infinite;
+
+}
+
+
+
+@keyframes scrolling {
+
+  0% {
+
+    transform: translate(0);
+
+  }
+
+ 
+
+  50% {
+
+    transform: translate(0,40px);}
+
+
+
+ 
+
+  100% {
+
+     transform: translate(0);
+
+  }
+
+}
+
+</style></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a26c712 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a26c712" data-element_type="section" id="scroll_here">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1c4b008 animated-slow elementor-invisible" data-id="1c4b008" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3645504 elementor-widget elementor-widget-heading" data-id="3645504" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Goodbye, Good Riddance.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0eafe01 elementor-widget elementor-widget-heading" data-id="0eafe01" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-067cb9f elementor-widget elementor-widget-text-editor" data-id="067cb9f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Create a web design that features an event or call to action that encourages the user to want to engage in the real-life event through an effective &amp; simple marketing strategy presented through the micro-site. The Rolling Stone’s Bandemic Warp Tour is the embodiment of what being in your youth is all about.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f448546 elementor-widget elementor-widget-image" data-id="f448546" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png" class="attachment-large size-large wp-image-10009" alt="Web design mobile responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-5323ba5 elementor-widget elementor-widget-heading" data-id="5323ba5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">No Regrets.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-52e5e75 elementor-widget elementor-widget-heading" data-id="52e5e75" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a8aa374 elementor-widget elementor-widget-text-editor" data-id="a8aa374" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This site has very simple navigation and is completed functional via Javascript and JQuery with a concrete foundation in both HTML and Sass. This web design was a success with the simplistic and edgy branding.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c91fd5a animated-slow elementor-invisible" data-id="c91fd5a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d56d86d elementor-widget elementor-widget-image" data-id="d56d86d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png" class="attachment-large size-large wp-image-10010" alt="Web design responsive mobile view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-7fe88ee elementor-widget elementor-widget-heading" data-id="7fe88ee" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Party Time!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-abb5ef5 elementor-widget elementor-widget-heading" data-id="abb5ef5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a2df7c8 elementor-widget elementor-widget-text-editor" data-id="a2df7c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Concept was rooted in the idea of putting on a live music event where collective artists from different genres would perform post pandemic that was organized by the Rolling Stones. Wire-frames &amp; testing occurred in Adobe XD &amp; later coded into a working site. The theme is within the name of the festival “Bandemic”, hence we need to band together afterwards together over music and festivities.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a203b8d elementor-widget elementor-widget-image" data-id="a203b8d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png" class="attachment-large size-large wp-image-10011" alt="Web design responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-81bc1f9 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81bc1f9" data-element_type="section" id="scroll_here2" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-18f9ba8" data-id="18f9ba8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e03b5f5 elementor-widget elementor-widget-heading" data-id="e03b5f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Goodbye, Good Riddance.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2ab026d elementor-widget elementor-widget-heading" data-id="2ab026d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Problem:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8050018 elementor-widget elementor-widget-text-editor" data-id="8050018" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Design a website that features an event or call to action that encourages the user to want to engage in the real-life event through an effective &amp; simple marketing strategy presented through the micro-site. The Rolling Stone’s Bandemic Warp Tour is the embodiment of what being in your youth is all about.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f4802f0 elementor-widget elementor-widget-image" data-id="f4802f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png" class="attachment-large size-large wp-image-10009" alt="Web design mobile responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-ae013ed elementor-widget elementor-widget-heading" data-id="ae013ed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Party Time!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67643bb elementor-widget elementor-widget-heading" data-id="67643bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Process:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c42905 elementor-widget elementor-widget-text-editor" data-id="3c42905" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Concept was rooted in the idea of putting on a live music event where collective artists from different genres would perform post pandemic that was organized by the Rolling Stones. Wire-frames &amp; testing occurred in Adobe XD &amp; later coded into a working site. The theme is within the name of the festival “Bandemic”, hence we need to band together afterwards together over music and festivities.</p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-46e1dc1 elementor-hidden-desktop elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46e1dc1" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-98abf16" data-id="98abf16" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ee549c elementor-widget elementor-widget-image" data-id="6ee549c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png" class="attachment-large size-large wp-image-10010" alt="Web design responsive mobile view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-2-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-3fea9af elementor-widget elementor-widget-heading" data-id="3fea9af" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">No Regrets.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a986c5b elementor-widget elementor-widget-heading" data-id="a986c5b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6e4b507 elementor-widget elementor-widget-text-editor" data-id="6e4b507" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This site has very simple navigation and is completed functional via Javascript and JQuery with a concrete foundation in both HTML and Sass. This site was a success with the simplistic and edgy branding.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b6db7eb elementor-widget elementor-widget-image" data-id="b6db7eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png" class="attachment-large size-large wp-image-10011" alt="Web design responsive view" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-3-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b872c50 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b872c50" data-element_type="section" data-settings="{&quot;animation_mobile&quot;:&quot;slideInUp&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ebacac animated-slow elementor-invisible" data-id="5ebacac" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_tablet&quot;:&quot;slideInUp&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-96a0b79 elementor-widget elementor-widget-image" data-id="96a0b79" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4.png" class="attachment-full size-full wp-image-10025" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-4-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4013cd elementor-hidden-mobile elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4013cd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d914604 animated-slow elementor-invisible" data-id="d914604" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;,&quot;animation_tablet&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-53d596e elementor-widget elementor-widget-image" data-id="53d596e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="1920" height="1080" src="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5.png" class="attachment-full size-full wp-image-10026" alt="" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5.png 1920w, https://shawnupdike.github.io/wp-content/uploads/2021/04/Bandemic-Image-5-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cfd3ebb animated-slow elementor-invisible" data-id="cfd3ebb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;,&quot;animation_tablet&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e602b7c elementor-widget elementor-widget-e_image_hover_effects" data-id="e602b7c" data-element_type="widget" data-widget_type="e_image_hover_effects.default">
+				<div class="elementor-widget-container">
+						<a href="https://shawnupdike.github.io/Bandemic/" target="_blank">
+					<div class="eihe-box eihe-blur eihe_center">
+				<img loading="lazy" decoding="async" width="1024" height="1024" src="https://shawnupdike.github.io/wp-content/uploads/2021/05/Bandemic.png" class="attachment-full size-full wp-image-457" alt="Website Design Project" srcset="https://shawnupdike.github.io/wp-content/uploads/2021/05/Bandemic.png 1024w, https://shawnupdike.github.io/wp-content/uploads/2021/05/Bandemic-300x300.png 300w, https://shawnupdike.github.io/wp-content/uploads/2021/05/Bandemic-150x150.png 150w, https://shawnupdike.github.io/wp-content/uploads/2021/05/Bandemic-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />				<div class="eihe-caption">
+					<div class="eihe-title-cover">
+												<h2 class="eihe-title">VISIT BANDEMIC WEBSITE</h2>
+											</div>
+					<p></p>
+				</div>
+			</div>
+					</a>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e50dd56 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e50dd56" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5629b81" data-id="5629b81" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-295bb78 elementor-post-navigation-borders-yes elementor-widget elementor-widget-post-navigation" data-id="295bb78" data-element_type="widget" data-widget_type="post-navigation.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-post-navigation">
+			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/pca-web-design/" rel="prev"><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">PCA Website Rebuild</span></span></a>			</div>
+							<div class="elementor-post-navigation__separator-wrapper">
+					<div class="elementor-post-navigation__separator"></div>
+				</div>
+						<div class="elementor-post-navigation__next elementor-post-navigation__link">
+				<a href="https://shawnupdike.github.io/fruit-basket-e-com-website/" rel="next"><span class="elementor-post-navigation__link__next"><span class="post-navigation__next--label">Next</span><span class="post-navigation__next--title">Fruit Basket E-Com Website</span></span></a>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<p>The post <a href="https://shawnupdike.github.io/bandemic-web-design-project/">Bandemic Event Microsite</a> appeared first on <a href="https://shawnupdike.github.io/">Shawn Updike Web Developer</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,165 @@
+<footer id="contact" class="footer" style="font-family: 'Motiva Sans', sans-serif;">
+  <div class="footer-container">
+
+    <!-- Column 1: Name / Title -->
+    <div class="footer-column column-name">
+      <p style="font-size: 14px;">SHAWN UPDIKE<span class="highlight">WEB DEVELOPER</span></p>
+    </div>
+
+    <!-- Divider 1 (Flexible) -->
+    <div class="footer-divider"></div>
+
+    <!-- Column 2: Social Icons -->
+    <div class="footer-column column-social">
+      <div class="social-icons">
+        <a href="https://www.youtube.com/channel/UC4H2Ai8khZ_sWXoKpSJ0zww" target="_blank" class="social-icon" aria-label="Youtube">
+          <i class="fab fa-youtube"></i>
+        </a>
+        <a href="https://www.instagram.com/_historicalatlas/" target="_blank" class="social-icon" aria-label="Instagram">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="https://github.com/shawnupdike" target="_blank" class="social-icon" aria-label="Github">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/shawn-updike/" target="_blank" class="social-icon" aria-label="LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <!--<a href="https://www.upwork.com/freelancers/~01a508b3baedbb4ef4?mp_source=share" target="_blank" class="social-icon" aria-label="Upwork">
+          <img src="/wp-content/uploads/2023/08/upwork-brands-solid-full.svg" alt="Upwork">
+        </a>-->
+      </div>
+    </div>
+
+    <!-- Divider 2 (Flexible) -->
+    <div class="footer-divider"></div>
+
+    <!-- Column 3: Copyright -->
+    <div class="footer-column column-copy">
+      <p style="font-size: 14px;">ALL RIGHTS RESERVED © 2026</p>
+    </div>
+
+  </div>
+</footer>
+
+<style>
+/* Footer Base */
+.footer {
+background-color: #18191a;
+  color: #fff;
+  padding: 10px 20px;
+  font-family: motiva sans;
+  font-weight: normal;
+}
+
+.footer {
+  margin-top: auto;
+  width: 100%;
+}
+
+/* Container mimics Elementor columns */
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1280px;
+  margin: 0 auto;
+  flex-wrap: nowrap;
+}
+
+/* Columns */
+.footer-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+/* Name / Highlight */
+.highlight {
+  color: #00f5a3;
+  margin-left: 5px;
+}
+
+/* Flexible Divider (horizontal, thinner, muted) */
+.footer-divider {
+  flex: 1; /* takes available space */
+  height: 1px;
+  background-color: rgba(0, 245, 163, 0.3); /* muted color */
+  margin: 0 30px; /* spacing between columns */
+}
+
+/* Social icons in circles with transparent background, colored border, more padding */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px; /* increased gap between icons */
+}
+
+.social-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 36px;
+  padding: 5px;
+  border: 2px solid #00f5a3;
+  border-radius: 50%;
+  background-color: transparent;
+  color: #00f5a3;
+  font-size: 14px;
+  text-decoration: none;
+  transition: transform 0.2s;
+}
+
+.social-icon img {
+  width: 16px;
+  height: 16px;
+}
+
+/* Hover: scale only, no color change */
+.social-icon:hover {
+  transform: scale(1.15);
+  color: #00f5a3;
+  border-color: #00f5a3;
+}
+
+/* Column-specific alignment */
+.column-name {
+  justify-content: flex-start;
+}
+.column-copy {
+  justify-content: flex-end;
+}
+
+/* Vertical alignment tweak: center text with dividers */
+.footer-column p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+  .footer-container {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .footer-column {
+    flex: 0 0 100%;
+    margin: 10px 0;
+    justify-content: center !important;
+  }
+
+  .footer-divider {
+    width: 80%;
+    height: 1px;
+    margin: 10px 0;
+  }
+
+  .social-icons {
+    gap: 15px; /* slightly smaller on mobile */
+  }
+}
+</style>

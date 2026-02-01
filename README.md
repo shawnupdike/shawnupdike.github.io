@@ -1,2 +1,1 @@
-# shawnupdike.github.io
-# www.shawnupdike.github.io
+# https://shawnupdike.github.io

@@ -1,12 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+  {% include head.html %}
+
+  <!-- Basic Meta -->
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/css/style.css">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+  <!-- SEO -->
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+  <link rel="canonical" href="{{ page.canonical | default: site.url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:image" content="{{ page.og_image | absolute_url }}">
+
 </head>
-<body>
+<body style="min-height: 100vh; display: flex; flex-direction: column; margin:0;">
+
+  <div id="page-loader">
+  <div class="spinner"></div>
+  </div>
 
   {% include header.html %}
 

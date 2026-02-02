@@ -25,7 +25,7 @@
 }
 
   #glitch-canvas {
-    position: fixed; /* decoupled from content */
+    position: fixed !important; /* decoupled from content */
     top: 0;
     left: 0;
     width: 100vw;
@@ -35,7 +35,7 @@
 
   .vignette-center,
   .vignette-outer {
-    position: fixed; /* decoupled too */
+    position: fixed !important; /* decoupled too */
     top: 0;
     left: 0;
     width: 100vw;

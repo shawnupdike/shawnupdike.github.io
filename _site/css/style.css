@@ -1,0 +1,551 @@
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Motiva Sans', sans-serif !important;
+    background-color: #121212 !important;
+    color: #ffffff;
+  }
+
+  body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+  }
+
+    #page-loader {
+    position: fixed;
+    inset: 0;
+    background: #111; /* match your theme */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    transition: opacity 0.4s ease, visibility 0.4s ease;
+  }
+
+  #page-loader.hidden {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  .spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #444;
+    border-top: 5px solid #fff;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+  }
+
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+  font-family: Motiva Sans, sans-serif !important;
+  }
+
+.vertical-hr {
+  width: 1px;
+  height: 100%;
+  background-color: rgba(255,255,255,0.35);
+  border: none;
+  }
+
+  :root {
+  --accent: #00f5a3;
+  --bg-dark: #18191a;
+  --bg-muted: #121212;
+  --text-light: #f1f1f1;
+}
+
+  #glitch-canvas {
+    position: fixed !important; /* decoupled from content */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0;
+  }
+
+  .vignette-center,
+  .vignette-outer {
+    position: fixed !important; /* decoupled too */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .vignette-center {
+    background: radial-gradient(circle, rgba(18,18,18,0.8) 0%, rgba(18,18,18,0) 25%);
+  }
+
+  .vignette-outer {
+    background: radial-gradient(circle, rgba(18,18,18,0) 0%, rgba(18,18,18,1) 100%);
+  }
+
+  .foreground-content {
+    position: relative; /* sits above canvas */
+    z-index: 1;
+    padding: 150px 0 50px 0; /* safe to adjust */
+  }
+
+  footer {
+    flex-shrink: 0; /* keep footer at bottom if content short */
+    z-index: 1;
+  }
+
+.border-custom {
+  border-color: #00f5a3 !important;
+  color: #00F5A3;
+}
+
+.btn.active {
+  border-color: #00f5a3 !important;
+  color: #00F5A3 !important;
+}
+
+.btn.inactive {
+  color: #777;
+}
+
+.btn.inactive:hover {
+  color: #ffffff;
+}
+
+.revealed {
+  color: #ffffff;
+}
+
+.encrypted {
+  color: #00f5a3;
+  opacity: 0.6;
+}
+
+.decrypt-visible {
+  display: inline;
+  line-height: inherit !important;
+}
+
+[data-text] {
+  display: inline-block;
+  vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+}
+
+/* =========================
+   Glass Card Base
+========================= */
+
+.glass-card {
+  background: rgba(24, 25, 26, 0.4);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-color: rgba(255, 255, 255, 0.1) !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+  color: #ffffff;
+}
+
+.glass-card:hover {
+  background: rgba(24, 25, 26, 0.6);
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.6);
+}
+
+/* =========================
+   Fixed Nav Container
+   (Bootstrap-width wrapper)
+========================= */
+
+.glass-nav-container {
+  position: fixed;
+  top: 56px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+
+  width: 100%;
+  max-width: 1320px; /* Bootstrap xl */
+  padding: 0 12px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* =========================
+   Glass Navbar Base
+========================= */
+
+.glass-navbar {
+  padding: 0px 20px;
+  background: rgba(24, 25, 26, 0.4); /* semi-transparent dark */
+  backdrop-filter: blur(10px); /* creates the frosted glass effect */
+  -webkit-backdrop-filter: blur(10px);
+  border-color: rgba(255, 255, 255, 0.1) !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  border-radius: 1rem;
+}
+
+/* =========================
+   Center Nav Items
+========================= */
+
+.nav-items {
+  list-style: none;
+  display: flex;
+  gap: 28px;
+  margin: 0;
+  padding: 0;
+}
+
+/* =========================
+   Shared Nav Link Styles
+========================= */
+
+.nav-items li a,
+.nav-logo,
+.nav-resume {
+  text-decoration: none;
+  color: #00f5a3;
+  font-weight: bold;
+  font-family: inherit;
+  padding: 10px 18px;
+  border-radius: 30px;
+  transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+/* =========================
+   Logo Styling
+========================= */
+
+.nav-logo img {
+  height: 24px;
+  width: auto;
+  display: block;
+}
+
+/* =========================
+   Hover Effects
+========================= */
+
+.nav-items li a:hover,
+.nav-logo:hover,
+.nav-resume:hover {
+  transform: scale(1.05);
+  color: #00f5a3;
+  box-shadow: 0 0 12px rgba(0, 245, 163, 0.6);
+  background: rgba(0, 245, 163, 0.1);
+}
+
+/* =========================
+   Bootstrap Container Breakpoints
+========================= */
+
+@media (max-width: 1399.98px) {
+  .glass-nav-container { max-width: 1140px; }
+}
+
+@media (max-width: 1199.98px) {
+  .glass-nav-container { max-width: 960px; }
+}
+
+@media (max-width: 991.98px) {
+  .glass-nav-container { max-width: 720px; }
+}
+
+@media (max-width: 767.98px) {
+  .glass-nav-container {
+    max-width: 540px;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .nav-items {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+
+  .nav-items li a,
+  .nav-logo,
+  .nav-resume {
+    padding: 6px 12px;
+  }
+
+  .nav-logo img {
+    height: 20px;
+  }
+}
+
+
+
+/* About Page Styling Specific */
+.text-accent { color: var(--accent); }
+
+.section {
+  position: relative;
+}
+
+.section-muted { background: var(--bg-muted); }
+
+.section-title {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 800;
+  line-height: 1.05;
+  text-transform: uppercase;
+}
+
+/* HERO */
+.about-hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.hero-title {
+  font-size: clamp(2.0rem, 5vw, 3.7rem);
+  font-weight: 800;
+  line-height: 1;
+}
+
+.hero-img {
+  max-width: 100%;
+  border-radius: 20px;
+  transition: transform .4s ease;
+  box-shadow: 6px 8px 10px rgba(0, 0, 0, 0.8); /* subtle shadow */
+}
+
+.hero-img:hover { transform: scale(1.04); }
+
+/* SLIDESHOW */
+.slideshow-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+section.slideshow-section.section.video-bg {
+  margin-top: 40px;
+}
+
+.slideshow-bg {
+  position: absolute;
+  inset: 0;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transform: scale(1);
+  transition: opacity 1.5s ease, transform 8s ease;
+}
+
+.slide.active {
+  opacity: 1;
+  transform: scale(1.08);
+}
+
+.slideshow-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,.65);
+  z-index: 1;
+}
+
+.slideshow-section .container {
+  z-index: 2;
+  position: relative;
+}
+/* About Page Styling Specific END */
+
+
+/* Portfolio Page Styling Specific */
+.filter-btn {
+  background: rgba(24, 25, 26, 0.4); /* semi-transparent dark */
+  backdrop-filter: blur(10px); /* creates the frosted glass effect */
+  -webkit-backdrop-filter: blur(10px);
+  color:#ffffff;
+  padding:0.5rem 1.25rem;
+  border-radius:50px;
+  cursor:pointer;
+  font-weight: bold;
+  border-color: rgba(255, 255, 255, 0.1) !important; /* soft border */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); /* subtle shadow */
+}
+
+.filter-btn.active {
+  background: rgba(24, 25, 26, 0.4); /* semi-transparent dark */
+  backdrop-filter: blur(10px); /* creates the frosted glass effect */
+  -webkit-backdrop-filter: blur(10px);
+  color:#00f5a3;
+  font-weight: bold;
+  border-color: #00f5a3 !important; /* soft border */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); /* subtle shadow */
+}
+
+.portfolio-card {
+  position:relative;
+  overflow:hidden;
+  border-radius:12px;
+  background:#111;
+}
+
+.portfolio-card img {
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  /*aspect-ratio:1/1;*/
+  transition:transform 0.4s ease;
+}
+
+/* Vignette overlay */
+.portfolio-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(0, 0, 0, 0) 40%,
+    rgba(0, 0, 0, 0.75) 100%
+  );
+  pointer-events: none;
+}
+
+.portfolio-overlay {
+  position:absolute;
+  inset:0;
+  background:rgba(0,0,0,0.7);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  padding:2rem;
+  opacity:0;
+  transition:opacity 0.3s ease;
+}
+
+.portfolio-card:hover img {
+  transform:scale(1.1);
+  filter: grayscale(100%);
+}
+
+.portfolio-card:hover .portfolio-overlay {
+  opacity:1;
+}
+
+.portfolio-title {
+  font-weight:700;
+  font-size:40px;
+  line-height: 50px;
+  color: #ffffff;
+  text-shadow: 0 3px 5px rgba(0, 0, 0, 1);
+  z-index: 1;
+  font-family: 'Motiva Sans', sans-serif !important;
+}
+
+/* Portfolio Page Styling Specific END */
+
+
+/* About Page Styling Specific */
+ /* === Glass Logo Slider === */
+.glass-logo-slider {
+  position: relative;
+  overflow: hidden;
+  padding: 0px 0;
+  border-radius: 20px;
+
+  /* Glass effect */
+  background: rgba(24, 25, 26, 0.4); /* semi-transparent dark */
+  backdrop-filter: blur(10px); /* creates the frosted glass effect */
+  -webkit-backdrop-filter: blur(10px);
+  border-color: rgba(255, 255, 255, 0.1) !important; /* soft border */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); /* subtle shadow */
+
+  /* Edge fade */
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+}
+
+/* Logo track animation */
+.logo-track {
+  display: flex;
+  width: max-content;
+  animation: glass-scroll 28s linear infinite;
+}
+
+.glass-logo-slider:hover .logo-track {
+  animation-play-state: paused;
+}
+
+/* Individual logo */
+.logo-item {
+  flex: 0 0 auto;
+  padding: 0 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Logo styling */
+.logo-item img {
+  max-height: 100px;
+  width: auto;
+  opacity: 0.75;
+  filter: grayscale(100%);
+  transition: all 0.3s ease;
+}
+
+.logo-item img:hover {
+  opacity: 1;
+  filter: grayscale(0%);
+  transform: scale(1.05);
+}
+
+/* Animation */
+@keyframes glass-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .logo-item {
+    padding: 0 28px;
+  }
+
+  .logo-item img {
+    max-height: 44px;
+  }
+}
+/* About Page Styling Specific END */

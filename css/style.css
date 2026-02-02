@@ -58,6 +58,10 @@
     padding: 150px 0 50px 0; /* safe to adjust */
   }
 
+  section.bg-dark.text-light.d-flex.align-items-center {
+    position: relative !important;
+  }
+
   footer {
     flex-shrink: 0; /* keep footer at bottom if content short */
     z-index: 1;

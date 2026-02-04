@@ -2,7 +2,28 @@
 <html lang="en">
 <head>
 
-      <!-- Favicon -->
+      <!-- Basic Meta -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+    <!-- SEO -->
+    <title>Projects & Works | Shawn Updike Web Developer</title>
+    <meta name="description" content="Portfolio of web development, UI/UX design, branding, and app projects by Shawn Updike.">
+    <link rel="canonical" href="https://shawnupdike.github.io/portfolio/">
+
+    <!-- Open Graph -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Projects & Works | Shawn Updike Web Developer">
+    <meta property="og:description" content="Portfolio of web development, UI/UX design, branding, and app projects by Shawn Updike.">
+    <meta property="og:url" content="http://localhost:4000/portfolio/">
+    <meta property="og:site_name" content="Shawn Updike Web Developer">
+    <meta property="og:image" content="http://localhost:4000/img/Site-Logo-2023.png">
+    
+    
+    <!-- Favicon -->
     <link rel="icon" href="https://shawnupdike.github.io/img/Site-Favicon-2023-150x150.png" sizes="32x32">
     <link rel="icon" href="https://shawnupdike.github.io/img/Site-Favicon-2023-300x300.png" sizes="192x192">
     <link rel="apple-touch-icon" href="https://shawnupdike.github.io/img/Site-Favicon-2023-300x300.png">
@@ -24,72 +45,23 @@
 
     <!-- Custom Styles -->
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/child.css">
 
     <!-- JS Libraries -->
     <script type="module" src="/js/main.js"></script>
     <script type="module" src="/js/global-elements.js"></script>
     <script type="module" src="/js/homepage-glitch-background.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
-   
-    <!-- Import only the GSAP modules you need, for example: -->
-    <script type="module" src="/js/gsap/gsap.js"></script>
-    <script type="module" src="/js/gsap/ScrollTrigger.js"></script>
-
-    <!-- All GSAP utilities and custom scripts are bundled in /js/bundle.js -->
-    <script type="module" src="/js/bundle.js"></script>
-
-  <!-- Basic Meta -->
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-
-  <!-- SEO -->
-  <title>Portfolio</title>
-  <meta name="description" content="">
-  <link rel="canonical" href="https://shawnupdike.github.io">
-
-  <!-- Open Graph -->
-  <meta property="og:locale" content="en_US">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Portfolio">
-  <meta property="og:description" content="">
-  <meta property="og:url" content="https://shawnupdike.github.io/portfolio/">
-  <meta property="og:site_name" content="Shawn Updike Web Developer">
-  <meta property="og:image" content="">
 
 </head>
+
 <body style="min-height: 100vh; display: flex; flex-direction: column; margin:0;">
 
-  <div id="page-loader">
+<div id="page-loader">
   <div class="spinner"></div>
-  </div>
+</div>
 
-  <!-- _includes/header.html -->
-
-<style>
-#scrollNavButton {
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.3s ease, transform 0.3s ease;
-}
-
-#scrollNavButton.show {
-  opacity: 1;
-  pointer-events: auto;
-  /*transform: translateX(-50%) translateY(0);*/
-}
-
-#mainNav {
-  transition: opacity 0.3s ease, transform 0.3s ease;
-}
-
-#mainNav.hide {
-  opacity: 0;
-  pointer-events: none;
-}
-</style>
-
+  
 <div class="d-none d-lg-block">
 <div id="mainNav" class="glass-nav-container" style="padding: 20px;">
 
@@ -181,71 +153,7 @@
 </div>
 
   <main>
-    <!DOCTYPE html>
-<html class="no-js" lang="en-US">
-
-<head>
-
-    <!-- Basic Meta -->
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-
-    <!-- SEO / Social -->
-    <title>Projects & Works | Shawn Updike Web Developer</title>
-    <meta name="description" content="Portfolio of web development, UI/UX design, branding, and app projects by Shawn Updike.">
-    <link rel="canonical" href="https://shawnupdike.github.io/portfolio/">
-
-    <!-- Open Graph -->
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Projects & Works | Shawn Updike Web Developer">
-    <meta property="og:description" content="Portfolio of web development, UI/UX design, branding, and app projects by Shawn Updike.">
-    <meta property="og:url" content="https://shawnupdike.github.io/portfolio/">
-    <meta property="og:site_name" content="Projects & Works | Shawn Updike Web Developer">
-    <meta property="og:image" content="https://shawnupdike.github.io/img/Site-Logo-2023.png">  
-
-</head>
-
-<body style="min-height: 100vh; display: flex; flex-direction: column; margin:0;">
-
-<div id="page-loader">
-  <div class="spinner"></div>
-</div>
-
-<style>
-  #page-loader {
-    position: fixed;
-    inset: 0;
-    background: #111; /* match your theme */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-    transition: opacity 0.4s ease, visibility 0.4s ease;
-  }
-
-  #page-loader.hidden {
-    opacity: 0;
-    visibility: hidden;
-  }
-
-  .spinner {
-    width: 50px;
-    height: 50px;
-    border: 5px solid #444;
-    border-top: 5px solid #fff;
-    border-radius: 50%;
-    animation: spin 1s linear infinite;
-  }
-
-  @keyframes spin {
-    to { transform: rotate(360deg); }
-  }
-</style>
-
-  <!-- MAIN CONTENT -->
+      <!-- MAIN CONTENT -->
   <main style="flex: 1 0 auto; position: relative;">
   <section id="glitch-container">
 
@@ -388,60 +296,10 @@
 </section>
 </main>
 
-<script type="module" src="/js/main.js"></script>
-<script type="module" src="/js/global-elements.js"></script>
-<script type="module" src="/js/homepage-glitch-background.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js" integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y" crossorigin="anonymous"></script>
-
-<!-- Import only the GSAP modules you need, for example: -->
-<script type="module" src="/js/gsap/gsap.js"></script>
-<script type="module" src="/js/gsap/ScrollTrigger.js"></script>
-
-<!-- All GSAP utilities and custom scripts are bundled in /js/bundle.js -->
-<script type="module" src="/js/bundle.js"></script>
-
-<script>
-  window.addEventListener("load", function () {
-    document.getElementById("page-loader").classList.add("hidden");
-  });
-</script>
-
-<script>
-  document.querySelectorAll("a").forEach(link => {
-    if (link.hostname === window.location.hostname) {
-      link.addEventListener("click", function () {
-        document.getElementById("page-loader").classList.remove("hidden");
-      });
-    }
-  });
-</script>
-
-<script>
-    new LetterGlitch(document.getElementById("glitch-container"));
-</script>
-
 <!-- GSAP -->
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
 <script>
-gsap.registerPlugin(ScrollTrigger);
-
-// Scroll reveal
-// gsap.from(".portfolio-item", {
-// opacity:0,
-// y:40,
-// stagger:0.1,
-// duration:0.6,
-// scrollTrigger:{
-// trigger:".portfolio-grid",
-// start:"top 80%"
-// }
-//});
-
-// Filters
 const buttons = document.querySelectorAll(".filter-btn");
 const items = document.querySelectorAll(".portfolio-item");
 
@@ -463,10 +321,6 @@ buttons.forEach(btn => {
   });
 });
 </script>
-
-</body>
-</html>
-
   </main>
 
   <footer id="contact" class="footer" style="font-family: 'Motiva Sans', sans-serif;">
@@ -495,9 +349,6 @@ buttons.forEach(btn => {
         <a href="https://www.linkedin.com/in/shawn-updike/" target="_blank" class="social-icon" aria-label="LinkedIn">
           <i class="fab fa-linkedin"></i>
         </a>
-        <!--<a href="https://www.upwork.com/freelancers/~01a508b3baedbb4ef4?mp_source=share" target="_blank" class="social-icon" aria-label="Upwork">
-          <img src="/wp-content/uploads/2023/08/upwork-brands-solid-full.svg" alt="Upwork">
-        </a>-->
       </div>
     </div>
 
@@ -512,129 +363,139 @@ buttons.forEach(btn => {
   </div>
 </footer>
 
-<style>
-/* Footer Base */
-.footer {
-background-color: #18191a;
-  color: #fff;
-  padding: 10px 20px;
-  font-family: motiva sans;
-  font-weight: normal;
-}
 
-.footer {
-  margin-top: auto;
-  width: 100%;
-}
+  <script>
+  window.addEventListener("load", function () {
+    document.getElementById("page-loader").classList.add("hidden");
+  });
+</script>
 
-/* Container mimics Elementor columns */
-.footer-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1280px;
-  margin: 0 auto;
-  flex-wrap: nowrap;
-}
+<script>
+  document.querySelectorAll("a").forEach(link => {
+    if (link.hostname === window.location.hostname) {
+      link.addEventListener("click", function () {
+        document.getElementById("page-loader").classList.remove("hidden");
+      });
+    }
+  });
+</script>
 
-/* Columns */
-.footer-column {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex: 0 0 auto;
-}
+<script>
+    new LetterGlitch(document.getElementById("glitch-container"));
+</script>
 
-/* Name / Highlight */
-.highlight {
-  color: #00f5a3;
-  margin-left: 5px;
-}
+<script>
+class DecryptedText {
+  constructor(el) {
+    this.el = el;
+    const textData = el.dataset.text;
+    try {
+      this.texts = JSON.parse(textData);
+    } catch {
+      this.texts = [textData];
+    }
 
-/* Flexible Divider (horizontal, thinner, muted) */
-.footer-divider {
-  flex: 1; /* takes available space */
-  height: 1px;
-  background-color: rgba(0, 245, 163, 0.3); /* muted color */
-  margin: 0 30px; /* spacing between columns */
-}
+    this.currentIndex = 0;
+    this.speed = Number(el.dataset.speed || 100);
+    this.maxIterations = Number(el.dataset.maxIterations || 10);
+    this.sequential = el.dataset.sequential === "true";
+    this.revealDirection = el.dataset.revealDirection || "start";
+    this.characters = (el.dataset.characters || "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()_+").split("");
+    this.className = el.dataset.className || "";
+    this.encryptedClassName = el.dataset.encryptedClassName || "";
+    this.animateOn = el.dataset.animateOn || "hover";
 
-/* Social icons in circles with transparent background, colored border, more padding */
-.social-icons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 18px; /* increased gap between icons */
-}
+    this.isScrambling = false;
+    this.revealed = new Set();
+    this.interval = null;
 
-.social-icon {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 36px;
-  height: 36px;
-  padding: 5px;
-  border: 2px solid #00f5a3;
-  border-radius: 50%;
-  background-color: transparent;
-  color: #00f5a3;
-  font-size: 14px;
-  text-decoration: none;
-  transition: transform 0.2s;
-}
-
-.social-icon img {
-  width: 16px;
-  height: 16px;
-}
-
-/* Hover: scale only, no color change */
-.social-icon:hover {
-  transform: scale(1.15);
-  color: #00f5a3;
-  border-color: #00f5a3;
-}
-
-/* Column-specific alignment */
-.column-name {
-  justify-content: flex-start;
-}
-.column-copy {
-  justify-content: flex-end;
-}
-
-/* Vertical alignment tweak: center text with dividers */
-.footer-column p {
-  margin: 0;
-  display: flex;
-  align-items: center;
-}
-
-/* Responsive adjustments */
-@media (max-width: 992px) {
-  .footer-container {
-    flex-wrap: wrap;
-    text-align: center;
+    this.buildOutput();
+    if (this.animateOn === "load") {
+      window.addEventListener("load", () => this.startScramble());
+    }
   }
 
-  .footer-column {
-    flex: 0 0 100%;
-    margin: 10px 0;
-    justify-content: center !important;
+  buildOutput() {
+    this.el.innerHTML = `
+      <span class="sr-only"></span>
+      <span class="decrypt-visible"></span>
+    `;
+    this.visibleEl = this.el.querySelector(".decrypt-visible");
+    this.updateText(this.texts[this.currentIndex]);
   }
 
-  .footer-divider {
-    width: 80%;
-    height: 1px;
-    margin: 10px 0;
+  updateText(text) {
+    this.visibleEl.innerHTML = "";
+    text.split("").forEach((char, i) => {
+      const span = document.createElement("span");
+      span.textContent = char;
+      span.className = this.revealed.has(i) ? this.className : this.encryptedClassName;
+      this.visibleEl.appendChild(span);
+    });
   }
 
-  .social-icons {
-    gap: 15px; /* slightly smaller on mobile */
+  startScramble() {
+    this.isScrambling = true;
+    this.revealed = new Set();
+    clearInterval(this.interval);
+    const text = this.texts[this.currentIndex];
+    let iteration = 0;
+
+    const getNextIndex = () => {
+      switch (this.revealDirection) {
+        case "start": return this.revealed.size;
+        case "end": return text.length - 1 - this.revealed.size;
+        default: return this.revealed.size;
+      }
+    };
+
+    const getRandChar = () => this.characters[Math.floor(Math.random() * this.characters.length)];
+
+    const scrambleTick = () => {
+      if (this.sequential) {
+        if (this.revealed.size < text.length) {
+          this.revealed.add(getNextIndex());
+        } else {
+          clearInterval(this.interval);
+          this.finish();
+          return;
+        }
+      } else {
+        iteration++;
+        if (iteration >= this.maxIterations) {
+          clearInterval(this.interval);
+          this.finish();
+          return;
+        }
+      }
+
+      const output = text
+        .split("")
+        .map((c, i) => (c === " " ? " " : this.revealed.has(i) ? c : getRandChar()))
+        .join("");
+
+      this.updateText(output);
+    };
+
+    this.interval = setInterval(scrambleTick, this.speed);
+  }
+
+  finish() {
+    this.isScrambling = false;
+    this.updateText(this.texts[this.currentIndex]);
+
+    // Move to next CTA after short delay
+    setTimeout(() => {
+      this.currentIndex = (this.currentIndex + 1) % this.texts.length;
+      this.startScramble();
+    }, 1500); // 1.5s pause between phrases
   }
 }
-</style>
 
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll("[data-text]").forEach(el => new DecryptedText(el));
+});
+</script>
 
 </body>
 </html>

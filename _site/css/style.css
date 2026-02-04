@@ -13,14 +13,14 @@
       flex-direction: column;
   }
 
-    #page-loader {
+  #page-loader {
     position: fixed;
     inset: 0;
     background: #111; /* match your theme */
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 9999;
+    z-index: 999999 !important;
     transition: opacity 0.4s ease, visibility 0.4s ease;
   }
 
@@ -42,15 +42,29 @@
     to { transform: rotate(360deg); }
   }
 
-  h1, h2, h3, h4, h5, h6 {
-  font-family: Motiva Sans, sans-serif !important;
+  #scrollNavButton {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease, transform 0.3s ease;
   }
 
-.vertical-hr {
-  width: 1px;
-  height: 100%;
-  background-color: rgba(255,255,255,0.35);
-  border: none;
+  #scrollNavButton.show {
+    opacity: 1;
+    pointer-events: auto;
+    /*transform: translateX(-50%) translateY(0);*/
+  }
+
+  #mainNav {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+
+  #mainNav.hide {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  h1, h2, h3, h4, h5, h6, .aux-h1, .aux-h2, .aux-h3, .aux-h4, .aux-h5, .aux-h6 {
+  font-family: Motiva Sans, sans-serif !important;
   }
 
   :root {
@@ -549,3 +563,124 @@ section.slideshow-section.section.video-bg {
   }
 }
 /* About Page Styling Specific END */
+
+/* Footer Base */
+.footer {
+background-color: #18191a;
+  color: #fff;
+  padding: 10px 20px;
+  font-family: motiva sans;
+  font-weight: normal;
+}
+
+.footer {
+  margin-top: auto;
+  width: 100%;
+}
+
+/* Container mimics Elementor columns */
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1280px;
+  margin: 0 auto;
+  flex-wrap: nowrap;
+}
+
+/* Columns */
+.footer-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 0 0 auto;
+}
+
+/* Name / Highlight */
+.highlight {
+  color: #00f5a3;
+  margin-left: 5px;
+}
+
+/* Flexible Divider (horizontal, thinner, muted) */
+.footer-divider {
+  flex: 1; /* takes available space */
+  height: 1px;
+  background-color: rgba(0, 245, 163, 0.3); /* muted color */
+  margin: 0 30px; /* spacing between columns */
+}
+
+/* Social icons in circles with transparent background, colored border, more padding */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px; /* increased gap between icons */
+}
+
+.social-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36px;
+  height: 36px;
+  padding: 5px;
+  border: 2px solid #00f5a3;
+  border-radius: 50%;
+  background-color: transparent;
+  color: #00f5a3;
+  font-size: 14px;
+  text-decoration: none;
+  transition: transform 0.2s;
+}
+
+.social-icon img {
+  width: 16px;
+  height: 16px;
+}
+
+/* Hover: scale only, no color change */
+.social-icon:hover {
+  transform: scale(1.15);
+  color: #00f5a3;
+  border-color: #00f5a3;
+}
+
+/* Column-specific alignment */
+.column-name {
+  justify-content: flex-start;
+}
+.column-copy {
+  justify-content: flex-end;
+}
+
+/* Vertical alignment tweak: center text with dividers */
+.footer-column p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+  .footer-container {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .footer-column {
+    flex: 0 0 100%;
+    margin: 10px 0;
+    justify-content: center !important;
+  }
+
+  .footer-divider {
+    width: 80%;
+    height: 1px;
+    margin: 10px 0;
+  }
+
+  .social-icons {
+    gap: 15px; /* slightly smaller on mobile */
+  }
+}

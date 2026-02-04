@@ -1,27 +1,52 @@
-<?xml version="2.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://shawnupdike.github.io/main-sitemap.xsl"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<sitemap>
-		<loc>https://shawnupdike.github.io/post-sitemap.xml</loc>
-		<lastmod>2026-02-01T21:00:00+00:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>https://shawnupdike.github.io/post-sitemap.xml</loc>
-		<lastmod>2023-08-12T21:41:08+00:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>https://shawnupdike.github.io/page-sitemap.xml</loc>
-		<lastmod>2023-11-14T22:08:18+00:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>https://shawnupdike.github.io/category-sitemap.xml</loc>
-		<lastmod>2023-08-12T21:41:08+00:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>https://shawnupdike.github.io/post_tag-sitemap.xml</loc>
-		<lastmod>2023-08-12T21:41:08+00:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>https://shawnupdike.github.io/author-sitemap.xml</loc>
-		<lastmod>2022-01-25T03:30:43+00:00</lastmod>
-	</sitemap>
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/404/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/bandemic/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/david-cortese-attorney-at-law/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/equinox/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/igt-cabinets-template/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/igt-homepage/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/igt-web-standards/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/providence-community-acupuncture/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/safety-first-firearms-instruction/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/smaht-weather/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/services/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/youtube-channel/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/img/Shawn%20Updike%20Web%20Developer%20-%20Resume%202026.pdf</loc>
+<lastmod>2026-02-02T19:22:36-06:00</lastmod>
+</url>
+</urlset>

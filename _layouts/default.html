@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/css/style.css">
+
+  {% include head.html %}
+
 </head>
-<body>
+
+<body style="min-height: 100vh; display: flex; flex-direction: column; margin:0;">
+
+<div id="page-loader">
+  <div class="spinner"></div>
+</div>
 
   {% include header.html %}
 
@@ -15,6 +19,139 @@
   </main>
 
   {% include footer.html %}
+
+  <script>
+  window.addEventListener("load", function () {
+    document.getElementById("page-loader").classList.add("hidden");
+  });
+</script>
+
+<script>
+  document.querySelectorAll("a").forEach(link => {
+    if (link.hostname === window.location.hostname) {
+      link.addEventListener("click", function () {
+        document.getElementById("page-loader").classList.remove("hidden");
+      });
+    }
+  });
+</script>
+
+<script>
+    new LetterGlitch(document.getElementById("glitch-container"));
+</script>
+
+<script>
+class DecryptedText {
+  constructor(el) {
+    this.el = el;
+    const textData = el.dataset.text;
+    try {
+      this.texts = JSON.parse(textData);
+    } catch {
+      this.texts = [textData];
+    }
+
+    this.currentIndex = 0;
+    this.speed = Number(el.dataset.speed || 100);
+    this.maxIterations = Number(el.dataset.maxIterations || 10);
+    this.sequential = el.dataset.sequential === "true";
+    this.revealDirection = el.dataset.revealDirection || "start";
+    this.characters = (el.dataset.characters || "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!@#$%^&*()_+").split("");
+    this.className = el.dataset.className || "";
+    this.encryptedClassName = el.dataset.encryptedClassName || "";
+    this.animateOn = el.dataset.animateOn || "hover";
+
+    this.isScrambling = false;
+    this.revealed = new Set();
+    this.interval = null;
+
+    this.buildOutput();
+    if (this.animateOn === "load") {
+      window.addEventListener("load", () => this.startScramble());
+    }
+  }
+
+  buildOutput() {
+    this.el.innerHTML = `
+      <span class="sr-only"></span>
+      <span class="decrypt-visible"></span>
+    `;
+    this.visibleEl = this.el.querySelector(".decrypt-visible");
+    this.updateText(this.texts[this.currentIndex]);
+  }
+
+  updateText(text) {
+    this.visibleEl.innerHTML = "";
+    text.split("").forEach((char, i) => {
+      const span = document.createElement("span");
+      span.textContent = char;
+      span.className = this.revealed.has(i) ? this.className : this.encryptedClassName;
+      this.visibleEl.appendChild(span);
+    });
+  }
+
+  startScramble() {
+    this.isScrambling = true;
+    this.revealed = new Set();
+    clearInterval(this.interval);
+    const text = this.texts[this.currentIndex];
+    let iteration = 0;
+
+    const getNextIndex = () => {
+      switch (this.revealDirection) {
+        case "start": return this.revealed.size;
+        case "end": return text.length - 1 - this.revealed.size;
+        default: return this.revealed.size;
+      }
+    };
+
+    const getRandChar = () => this.characters[Math.floor(Math.random() * this.characters.length)];
+
+    const scrambleTick = () => {
+      if (this.sequential) {
+        if (this.revealed.size < text.length) {
+          this.revealed.add(getNextIndex());
+        } else {
+          clearInterval(this.interval);
+          this.finish();
+          return;
+        }
+      } else {
+        iteration++;
+        if (iteration >= this.maxIterations) {
+          clearInterval(this.interval);
+          this.finish();
+          return;
+        }
+      }
+
+      const output = text
+        .split("")
+        .map((c, i) => (c === " " ? " " : this.revealed.has(i) ? c : getRandChar()))
+        .join("");
+
+      this.updateText(output);
+    };
+
+    this.interval = setInterval(scrambleTick, this.speed);
+  }
+
+  finish() {
+    this.isScrambling = false;
+    this.updateText(this.texts[this.currentIndex]);
+
+    // Move to next CTA after short delay
+    setTimeout(() => {
+      this.currentIndex = (this.currentIndex + 1) % this.texts.length;
+      this.startScramble();
+    }, 1500); // 1.5s pause between phrases
+  }
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll("[data-text]").forEach(el => new DecryptedText(el));
+});
+</script>
 
 </body>
 </html>

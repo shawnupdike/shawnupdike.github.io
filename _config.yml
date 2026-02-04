@@ -1,1 +1,6 @@
-title: Shawn Updike
+title: Shawn Updike Web Developer
+url: https://shawnupdike.github.io
+baseurl: ""
+
+plugins:
+  - jekyll-sitemap

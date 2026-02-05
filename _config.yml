@@ -1,6 +1,17 @@
 title: Shawn Updike Web Developer
+description: Professional web developer building modern responsive websites.
 url: https://shawnupdike.github.io
+author: Shawn Updike
 baseurl: ""
+permalink: /404.html
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+keywords:
+  - web developer
+  - frontend developer
+  - responsive websites
+  - Jekyll developer
+  - GitHub Pages expert

@@ -74,6 +74,16 @@
   --text-light: #f1f1f1;
 }
 
+.google-form-wrapper {
+  width: 100%;
+  max-width: 100%;
+}
+
+.google-form-wrapper iframe {
+  width: 100%;
+  min-height: 1100px;
+}
+
   #glitch-canvas {
     position: fixed !important; /* decoupled from content */
     top: 0;
@@ -94,9 +104,9 @@
     z-index: 0;
   }
 
-  .vignette-center {
+  /*.vignette-center {
     background: radial-gradient(circle, rgba(18,18,18,0.8) 0%, rgba(18,18,18,0) 25%);
-  }
+  }*/
 
   .vignette-outer {
     background: radial-gradient(circle, rgba(18,18,18,0) 0%, rgba(18,18,18,1) 100%);

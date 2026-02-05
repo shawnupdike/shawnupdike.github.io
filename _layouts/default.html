@@ -20,21 +20,40 @@
 
   {% include footer.html %}
 
-  <script>
+<script>
   window.addEventListener("load", function () {
     document.getElementById("page-loader").classList.add("hidden");
   });
 </script>
 
 <script>
-  document.querySelectorAll("a").forEach(link => {
-    if (link.hostname === window.location.hostname) {
-      link.addEventListener("click", function () {
-        document.getElementById("page-loader").classList.remove("hidden");
-      });
+  document.addEventListener("click", function (e) {
+    const link = e.target.closest("a");
+    if (!link) return;
+
+    const href = link.getAttribute("href");
+    if (!href) return;
+
+    // Ignore anchor-only links (#section)
+    if (href.startsWith("#")) return;
+
+    // Ignore same-page hash links (/page#section)
+    const url = new URL(link.href, window.location.origin);
+    if (
+      url.pathname === window.location.pathname &&
+      url.hash
+    ) return;
+
+    // Ignore new tab links
+    if (link.target === "_blank") return;
+
+    // Only trigger loader for same-origin full page navigation
+    if (url.origin === window.location.origin) {
+      document.getElementById("page-loader").classList.remove("hidden");
     }
   });
 </script>
+
 
 <script>
     new LetterGlitch(document.getElementById("glitch-container"));

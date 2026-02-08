@@ -162,6 +162,12 @@
   padding: 0;
 }
 
+@media (max-width: 991px) {
+  h1.fw-bold {
+    font-size: 36px !important;
+  }
+}
+
 /* =========================
    Glass Card Base
 ========================= */

@@ -255,6 +255,22 @@
 }
 
 /* =========================
+   Modal Styling - Gallery & Others
+========================= */
+
+.modal {
+  z-index: 99999 !important;
+}
+
+.modal-backdrop {
+  z-index: 99998 !important;
+}
+
+#galleryModal {
+  z-index: 99999 !important;
+}
+
+/* =========================
    Logo Styling
 ========================= */
 

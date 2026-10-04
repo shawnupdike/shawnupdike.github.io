@@ -236,25 +236,18 @@ og_image: /img/Site-Logo-2023.png
 .igt-acc .tags.adjacent li { background: transparent; border: 1px dashed var(--acc-line-strong); color: var(--acc-ink-2); }
 .igt-acc .tag-lead { margin: 18px 0 0; font-size: 13px; color: var(--acc-muted); }
 .igt-acc .tag-lead + .tags { margin-top: 8px; }
+.igt-acc .tags ::before { display: none !important;}
 
-@container igt-acc (min-width: 360px) {
-  .igt-acc .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-}
 @container igt-acc (min-width: 600px) {
   .igt-acc .section-grid { grid-template-columns: 190px minmax(0, 1fr); }
 }
 @container igt-acc (min-width: 700px) {
-  .igt-acc .metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .igt-acc .metrics { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .igt-acc .tile .num { font-size: 36px; }
 }
 </style>
 
 <div class="igt-acc">
-  <header>
-    <h4>Web Services: recent accomplishments and impact</h4>
-    <p class="lede">A summary of program leadership, operational improvements, and hands-on delivery across the web ecosystem at IGT.</p>
-    <p class="meta">Prepared October 2026</p>
-  </header>
 
   <div class="metrics" role="list" aria-label="Headline metrics">
     <div class="tile" role="listitem">
@@ -271,11 +264,6 @@ og_image: /img/Site-Logo-2023.png
       <span class="num">~230</span>
       <span class="label">Requests per year</span>
       <span class="sub">Sustained annual pace</span>
-    </div>
-    <div class="tile" role="listitem">
-      <span class="num">3 yrs</span>
-      <span class="label">Tenure at IGT</span>
-      <span class="sub">Leading web services</span>
     </div>
   </div>
 
@@ -436,17 +424,6 @@ og_image: /img/Site-Logo-2023.png
     </div>
   </section>
 </div>
-
-              <ul class="list-unstyled my-4" style="font-size: 14px; gap: 10px; display: flex; flex-direction: column;">
-                <li>Manage web content and digital asset workflows through Bynder DAM, establishing reliable asset taxonomy, permission structures, and governance practices.</li>
-                <li>Personally completed 700+ web requests and counting at IGT, sustaining a high volume of hands-on delivery alongside increasing leadership responsibilities.</li>
-                <li>Lead the end-to-end IGT.com rebuild program in partnership with internal stakeholders and external vendor BlueModus, coordinating UX design, API development, content strategy, and web data architecture.</li>
-                <li>Led the execution of IGT’s enterprise-wide web rebrand, coordinating design, content, development, and quality assurance across web properties to deliver a consistent brand experience.</li>
-                <li>Delivered more than $150K in Web Services cost reductions by eliminating redundant tooling, reducing vendor spend, and addressing operational inefficiencies.</li>
-                <li>Established structured marketing intake workflows that enable stakeholders to submit and track requests while providing the web team with a prioritized, visible delivery pipeline.</li>
-                <li>Xperience by Kentico CMS, Bynder DAM, ServiceNow, Jira, Bootstrap, HTML, SCSS, JavaScript, Adobe Creative Cloud, AWS, and Claude. Working familiarity with adjacent enterprise systems including Azure DevOps, Azure Blob Storage, SQL Server, SAP, Matrix, and Airtable.</li>
-              </ul>
-
         <hr class="my-5">
 
               <p class="card-text text-white" style="font-size: 18px;">
@@ -464,6 +441,8 @@ og_image: /img/Site-Logo-2023.png
 
         <p class="card-text text-white" style="font-size: 18px;">
                 Web Designer - Full-Time (February 2023 - July 2025)</p>
+
+        <p class="card-text text-white">Landing gig at IGT was being a Web Designer for the Web Services team that focused on developing and maintaining websites and environments.</p>
 </div>
 
         </div>

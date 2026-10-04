@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Web Services accomplishments summary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  --bg: #F5F7F8;
+  --surface: #FFFFFF;
+  --ink: #172029;
+  --ink-2: #46525D;
+  --muted: #7A858F;
+  --line: #D9DFE4;
+  --line-strong: #B7C0C8;
+  --accent: #0F6E56;
+  --tag-bg: #EBEFF1;
+  --teal-fill: #E1F5EE; --teal-line: #0F6E56; --teal-text: #085041; --teal-sub: #0F6E56;
+  --purple-fill: #EEEDFE; --purple-line: #534AB7; --purple-text: #3C3489; --purple-sub: #534AB7;
+  --coral-fill: #FAECE7; --coral-line: #993C1D; --coral-text: #712B13; --coral-sub: #993C1D;
+  --gray-fill: #EBEFF1; --gray-line: #5C6670; --gray-text: #2C333A; --gray-sub: #5C6670;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0E1316;
+    --surface: #161C20;
+    --ink: #E9EDF0;
+    --ink-2: #B3BDC5;
+    --muted: #7D8891;
+    --line: #283138;
+    --line-strong: #3A454E;
+    --accent: #5DCAA5;
+    --tag-bg: #232B31;
+    --teal-fill: #085041; --teal-line: #5DCAA5; --teal-text: #9FE1CB; --teal-sub: #5DCAA5;
+    --purple-fill: #3C3489; --purple-line: #AFA9EC; --purple-text: #CECBF6; --purple-sub: #AFA9EC;
+    --coral-fill: #712B13; --coral-line: #F0997B; --coral-text: #F5C4B3; --coral-sub: #F0997B;
+    --gray-fill: #232B31; --gray-line: #8F9AA3; --gray-text: #D3D9DE; --gray-sub: #A7B0B7;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0E1316;
+  --surface: #161C20;
+  --ink: #E9EDF0;
+  --ink-2: #B3BDC5;
+  --muted: #7D8891;
+  --line: #283138;
+  --line-strong: #3A454E;
+  --accent: #5DCAA5;
+  --tag-bg: #232B31;
+  --teal-fill: #085041; --teal-line: #5DCAA5; --teal-text: #9FE1CB; --teal-sub: #5DCAA5;
+  --purple-fill: #3C3489; --purple-line: #AFA9EC; --purple-text: #CECBF6; --purple-sub: #AFA9EC;
+  --coral-fill: #712B13; --coral-line: #F0997B; --coral-text: #F5C4B3; --coral-sub: #F0997B;
+  --gray-fill: #232B31; --gray-line: #8F9AA3; --gray-text: #D3D9DE; --gray-sub: #A7B0B7;
+}
+html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+*, *::before, *::after { box-sizing: inherit; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  font-variant-numeric: tabular-nums;
+}
+.page {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 48px 20px 72px;
+}
+header { max-width: 640px; margin-bottom: 40px; }
+h1 {
+  margin: 0 0 12px;
+  font-size: 28px;
+  line-height: 1.2;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+.lede { margin: 0; color: var(--ink-2); font-size: 16px; }
+.meta { margin: 10px 0 0; color: var(--muted); font-size: 13px; }
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0 0 56px;
+}
+.tile {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px 18px 16px;
+}
+.tile .num {
+  display: block;
+  font-size: 40px;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+}
+.tile .num.accent { color: var(--accent); }
+.tile .label { display: block; margin-top: 10px; font-size: 14px; font-weight: 500; color: var(--ink); }
+.tile .sub { display: block; margin-top: 2px; font-size: 13px; color: var(--muted); }
+
+section {
+  padding: 32px 0;
+  border-top: 1px solid var(--line);
+}
+section:first-of-type { border-top: 0; padding-top: 0; }
+.section-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 16px 40px; }
+.section-head h2 {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.3;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.section-head p { margin: 8px 0 0; font-size: 13px; color: var(--muted); max-width: 26ch; }
+.section-body { min-width: 0; }
+.item { margin: 0 0 18px; color: var(--ink-2); max-width: 66ch; }
+.item:last-child { margin-bottom: 0; }
+.item strong { color: var(--ink); font-weight: 600; }
+
+figure { margin: 24px 0 8px; }
+figure svg { display: block; width: 100%; height: auto; max-width: 680px; }
+figcaption { margin-top: 10px; font-size: 13px; color: var(--muted); max-width: 66ch; }
+svg text { font-family: inherit; }
+svg .th { font-size: 14px; font-weight: 500; }
+svg .ts { font-size: 12px; font-weight: 400; }
+svg .arr { stroke: var(--line-strong); stroke-width: 1.5; fill: none; }
+svg .arrhead { fill: none; stroke: var(--line-strong); stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+.f-teal rect { fill: var(--teal-fill); stroke: var(--teal-line); }
+.f-teal .th { fill: var(--teal-text); } .f-teal .ts { fill: var(--teal-sub); }
+.f-purple rect { fill: var(--purple-fill); stroke: var(--purple-line); }
+.f-purple .th { fill: var(--purple-text); } .f-purple .ts { fill: var(--purple-sub); }
+.f-coral rect { fill: var(--coral-fill); stroke: var(--coral-line); }
+.f-coral .th { fill: var(--coral-text); } .f-coral .ts { fill: var(--coral-sub); }
+.f-gray rect { fill: var(--gray-fill); stroke: var(--gray-line); }
+.f-gray .th { fill: var(--gray-text); } .f-gray .ts { fill: var(--gray-sub); }
+
+.tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 0; padding: 0; list-style: none; }
+.tags li {
+  background: var(--tag-bg);
+  color: var(--ink);
+  font-size: 13px;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+.tags.adjacent li {
+  background: transparent;
+  border: 1px dashed var(--line-strong);
+  color: var(--ink-2);
+}
+.tag-lead { margin: 20px 0 0; font-size: 13px; color: var(--muted); }
+.tag-lead + .tags { margin-top: 8px; }
+
+@media (min-width: 720px) {
+  .page { padding: 72px 32px 96px; }
+  h1 { font-size: 34px; }
+  .metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .tile .num { font-size: 48px; }
+  .section-grid { grid-template-columns: 200px minmax(0, 1fr); }
+}
+@media print {
+  :root { --bg: #fff; --surface: #fff; }
+  body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page { padding: 0; max-width: none; }
+  .tile, section, figure { break-inside: avoid; }
+  .metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); margin-bottom: 36px; }
+  .tile .num { font-size: 36px; }
+  .section-grid { grid-template-columns: 160px minmax(0, 1fr); gap: 12px 28px; }
+  section { padding: 22px 0; }
+  figure svg { max-width: 560px; }
+}
+</style>
+</head>
+<body>
+<main class="page">
+  <header>
+    <h1>Web Services: recent accomplishments and impact</h1>
+    <p class="lede">A summary of program leadership, operational improvements, and hands-on delivery across the web ecosystem at IGT.</p>
+    <p class="meta">Prepared October 2026</p>
+  </header>
+
+  <div class="metrics" role="list" aria-label="Headline metrics">
+    <div class="tile" role="listitem">
+      <span class="num accent">$150K+</span>
+      <span class="label">Cost reduction</span>
+      <span class="sub">Web services team</span>
+    </div>
+    <div class="tile" role="listitem">
+      <span class="num accent">700+</span>
+      <span class="label">Web requests completed</span>
+      <span class="sub">Personally delivered</span>
+    </div>
+    <div class="tile" role="listitem">
+      <span class="num">~230</span>
+      <span class="label">Requests per year</span>
+      <span class="sub">Sustained annual pace</span>
+    </div>
+    <div class="tile" role="listitem">
+      <span class="num">3 yrs</span>
+      <span class="label">Tenure at IGT</span>
+      <span class="sub">Leading web services</span>
+    </div>
+  </div>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h2>Cost management and operational efficiency</h2>
+        <p>Savings, platform governance, and repeatable intake processes</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Reduced Web Services team costs by more than $150K.</strong> Identified and eliminated redundant tooling, vendor spend, and process inefficiencies across the web services function, delivering savings that can be redirected toward higher-value initiatives.</p>
+        <p class="item"><strong>Operationalized the Bynder digital asset management platform.</strong> Resolved structural issues in asset taxonomy and permission sets, transforming Bynder from a partially adopted tool into a governed, reliable system of record for brand and marketing assets.</p>
+        <p class="item"><strong>Established workstreams and intake flows for marketing teams.</strong> Designed and implemented processes that allow marketing stakeholders to submit, track, and manage web-related requests, improving visibility, reducing ad-hoc asks, and creating a predictable pipeline for the web team.</p>
+        <figure>
+          <svg viewBox="0 0 680 120" role="img" xmlns="http://www.w3.org/2000/svg">
+            <title>Marketing web request intake flow</title>
+            <desc>Marketing teams submit and track work through an intake workflow built on ServiceNow and Jira, which feeds the web services team to prioritize and deliver.</desc>
+            <defs>
+              <marker id="arrow-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path class="arrhead" d="M2 1L8 5L2 9"/></marker>
+            </defs>
+            <g class="f-coral">
+              <rect x="40" y="30" width="180" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="130" y="48" text-anchor="middle" dominant-baseline="central">Marketing teams</text>
+              <text class="ts" x="130" y="68" text-anchor="middle" dominant-baseline="central">Submit and track work</text>
+            </g>
+            <line x1="220" y1="58" x2="248" y2="58" class="arr" marker-end="url(#arrow-a)"/>
+            <g class="f-gray">
+              <rect x="250" y="30" width="180" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="340" y="48" text-anchor="middle" dominant-baseline="central">Intake workflow</text>
+              <text class="ts" x="340" y="68" text-anchor="middle" dominant-baseline="central">ServiceNow and Jira</text>
+            </g>
+            <line x1="430" y1="58" x2="458" y2="58" class="arr" marker-end="url(#arrow-a)"/>
+            <g class="f-teal">
+              <rect x="460" y="30" width="180" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="550" y="48" text-anchor="middle" dominant-baseline="central">Web services team</text>
+              <text class="ts" x="550" y="68" text-anchor="middle" dominant-baseline="central">Prioritize and deliver</text>
+            </g>
+          </svg>
+          <figcaption>Marketing request intake: requesters submit and track their own work, and the web team receives a prioritized queue.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h2>Program and project leadership</h2>
+        <p>Enterprise rebrand and the end-to-end web rebuild</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Led and deployed an enterprise-level rebrand across the web ecosystem.</strong> Owned end-to-end execution of the rebrand across all web properties, coordinating design, content, development, and QA to deliver a consistent brand experience on schedule.</p>
+        <p class="item"><strong>Leading the end-to-end web rebuild program.</strong> Serving as the primary owner for the rebuild, partnering with internal IGT teams and vendor BlueModus to deliver UX design, API development, content strategy, and web data architecture. Responsible for scope, prioritization, vendor accountability, and alignment with business objectives.</p>
+        <figure>
+          <svg viewBox="0 0 680 360" role="img" xmlns="http://www.w3.org/2000/svg">
+            <title>Web rebuild program scope</title>
+            <desc>Internal IGT teams and the vendor BlueModus feed into a web rebuild program led end to end, which contains four workstreams: UX design, API builds, content strategy, and web data architecture.</desc>
+            <defs>
+              <marker id="arrow-b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path class="arrhead" d="M2 1L8 5L2 9"/></marker>
+            </defs>
+            <g class="f-gray">
+              <rect x="120" y="40" width="200" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="220" y="58" text-anchor="middle" dominant-baseline="central">Internal IGT teams</text>
+              <text class="ts" x="220" y="78" text-anchor="middle" dominant-baseline="central">Marketing, IT, brand</text>
+            </g>
+            <g class="f-gray">
+              <rect x="360" y="40" width="200" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="460" y="58" text-anchor="middle" dominant-baseline="central">BlueModus</text>
+              <text class="ts" x="460" y="78" text-anchor="middle" dominant-baseline="central">Implementation vendor</text>
+            </g>
+            <line x1="220" y1="96" x2="220" y2="132" class="arr" marker-end="url(#arrow-b)"/>
+            <line x1="460" y1="96" x2="460" y2="132" class="arr" marker-end="url(#arrow-b)"/>
+            <g class="f-purple">
+              <rect x="40" y="140" width="600" height="200" rx="16" stroke-width="1" stroke-dasharray="6 4"/>
+              <text class="th" x="340" y="166" text-anchor="middle" dominant-baseline="central">Web rebuild program</text>
+            </g>
+            <g class="f-teal">
+              <rect x="60" y="190" width="270" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="195" y="208" text-anchor="middle" dominant-baseline="central">UX design</text>
+              <text class="ts" x="195" y="228" text-anchor="middle" dominant-baseline="central">Experience and interface</text>
+            </g>
+            <g class="f-teal">
+              <rect x="350" y="190" width="270" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="485" y="208" text-anchor="middle" dominant-baseline="central">API builds</text>
+              <text class="ts" x="485" y="228" text-anchor="middle" dominant-baseline="central">Integrations and services</text>
+            </g>
+            <g class="f-teal">
+              <rect x="60" y="262" width="270" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="195" y="280" text-anchor="middle" dominant-baseline="central">Content strategy</text>
+              <text class="ts" x="195" y="300" text-anchor="middle" dominant-baseline="central">Structure and governance</text>
+            </g>
+            <g class="f-teal">
+              <rect x="350" y="262" width="270" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="485" y="280" text-anchor="middle" dominant-baseline="central">Web data architecture</text>
+              <text class="ts" x="485" y="300" text-anchor="middle" dominant-baseline="central">Models and taxonomy</text>
+            </g>
+          </svg>
+          <figcaption>Web rebuild program: internal teams and the vendor feed four coordinated workstreams under single ownership.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h2>Strategy and executive engagement</h2>
+        <p>Digital ecosystem direction and leadership reporting</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Orchestrating digital ecosystem strategy for web and omnichannel.</strong> Defining how web channels fit within the broader omnichannel experience, ensuring platform, content, and data decisions support long-term digital goals rather than isolated projects.</p>
+        <p class="item"><strong>Delivering regular reporting to the CIO, SVPs, Senior Directors, and the broader SLT.</strong> Providing consistent updates on program status, risks, costs, and outcomes, enabling informed executive decision-making and maintaining leadership confidence in the web portfolio.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h2>Team leadership and delivery</h2>
+        <p>Leading the team while staying hands-on</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Personally completed more than 700 web requests over a three-year tenure at IGT.</strong> Averaging roughly 230 requests a year, this reflects a sustained, hands-on delivery record maintained alongside program and team leadership responsibilities, demonstrating both individual throughput and the ability to scale beyond it.</p>
+        <p class="item"><strong>Sustained effective leadership of the Web Services team.</strong> Supported team members in executing their responsibilities, removed blockers, and maintained delivery quality through a period of significant change across the rebrand, rebuild, and new tooling.</p>
+        <p class="item"><strong>Proactively resolved team and cross-functional issues.</strong> Addressed pipeline bottlenecks and communication gaps as they emerged, keeping work moving and preserving healthy working relationships across teams and vendors.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h2>Technical breadth</h2>
+        <p>Platforms used to deliver this work</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Leveraged a diverse technology stack to execute responsibilities.</strong> Bridged business, creative, and technical domains across service management, digital asset management, content management, project tracking, creative tooling, AI assistance, and cloud infrastructure.</p>
+        <p class="item"><strong>Working familiarity with adjacent enterprise systems.</strong> Regularly collaborated with the teams that own Azure DevOps and Blob Storage, SQL Server, SAP, Matrix, and Airtable. Exposure here is adjacent rather than hands-on: enough to coordinate dependencies, understand how data moves between these systems and the web ecosystem, and partner effectively with their owners, without claiming depth in the platforms themselves.</p>
+        <p class="tag-lead">Primary platforms</p>
+        <ul class="tags" aria-label="Primary platforms">
+          <li>ServiceNow</li>
+          <li>Bynder</li>
+          <li>Kentico</li>
+          <li>Jira</li>
+          <li>Adobe Creative Cloud</li>
+          <li>Claude</li>
+          <li>AWS</li>
+        </ul>
+        <p class="tag-lead">Adjacent systems, working familiarity</p>
+        <ul class="tags adjacent" aria-label="Adjacent systems">
+          <li>Azure DevOps</li>
+          <li>Azure Blob Storage</li>
+          <li>SQL Server</li>
+          <li>SAP</li>
+          <li>Matrix</li>
+          <li>Airtable</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</main>
+</body>
+</html>

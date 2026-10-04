@@ -161,6 +161,282 @@ og_image: /img/Site-Logo-2023.png
          </div>
 
          <div class="col-12">
+
+          <!--
+  IGT Web Services accomplishments: paste-ready fragment.
+  Paste the whole block where the "Manager, Web Services & Development" bullets are (desktop and mobile panes).
+  The <style> only needs to exist once per page; a second copy is harmless.
+  Scoped to .igt-acc. No IDs, no Liquid tags, no external requests.
+-->
+<style>
+/* Scoped to .igt-acc. Fixed dark palette to match the glass cards; layout responds to the
+   width of the container it's pasted into (container queries), not the viewport. */
+.igt-acc {
+  --acc-ink: #fff; --acc-ink-2: rgba(255,255,255,.8); --acc-muted: rgba(255,255,255,.6);
+  --acc-line: rgba(255,255,255,.16); --acc-line-strong: rgba(255,255,255,.38);
+  --acc-surface: rgba(255,255,255,.05); --acc-tag-bg: rgba(255,255,255,.08); --acc-accent: #00f5a3;
+  --acc-teal-fill: #085041; --acc-teal-line: #5DCAA5; --acc-teal-text: #9FE1CB; --acc-teal-sub: #5DCAA5;
+  --acc-purple-fill: #3C3489; --acc-purple-line: #AFA9EC; --acc-purple-text: #CECBF6; --acc-purple-sub: #AFA9EC;
+  --acc-coral-fill: #712B13; --acc-coral-line: #F0997B; --acc-coral-text: #F5C4B3; --acc-coral-sub: #F0997B;
+  --acc-gray-fill: #232B31; --acc-gray-line: #8F9AA3; --acc-gray-text: #D3D9DE; --acc-gray-sub: #A7B0B7;
+  container: igt-acc / inline-size;
+  display: block; width: 100%; min-width: 0; margin: 0; padding: 0;
+  color: var(--acc-ink-2); font-family: inherit; font-size: 14px; line-height: 1.65;
+  text-align: left; text-transform: none; letter-spacing: normal; text-shadow: none;
+  font-variant-numeric: tabular-nums;
+}
+.igt-acc *, .igt-acc *::before, .igt-acc *::after { box-sizing: border-box; }
+/* neutralise site-wide element rules (fixed headers, full-height sections, etc.) */
+.igt-acc :is(header, section, figure, h4, h5, p, ul, li, strong) {
+  position: static; float: none; min-height: 0; background: none; border: 0; box-shadow: none;
+  text-shadow: none; text-transform: none; letter-spacing: normal; font-family: inherit;
+}
+
+.igt-acc > header { max-width: 640px; margin: 0 0 32px; padding: 0; }
+.igt-acc header h4 { margin: 0 0 10px; font-size: 24px; line-height: 1.2; font-weight: 600; letter-spacing: -0.015em; color: var(--acc-ink); }
+.igt-acc .lede { margin: 0; color: var(--acc-ink-2); font-size: 15px; }
+.igt-acc .meta { margin: 8px 0 0; color: var(--acc-muted); font-size: 13px; }
+
+.igt-acc .metrics { display: grid; grid-template-columns: minmax(0, 1fr); gap: 12px; margin: 0 0 40px; padding: 0; }
+.igt-acc .tile { min-width: 0; padding: 16px 14px 14px; background: var(--acc-surface); border: 1px solid var(--acc-line); border-radius: 8px; }
+.igt-acc .tile .num { display: block; font-size: 32px; line-height: 1; font-weight: 600; letter-spacing: -0.03em; color: var(--acc-ink); }
+.igt-acc .tile .num.accent { color: var(--acc-accent); }
+.igt-acc .tile .label { display: block; margin-top: 10px; font-size: 14px; line-height: 1.35; font-weight: 500; color: var(--acc-ink); }
+.igt-acc .tile .sub { display: block; margin-top: 2px; font-size: 13px; line-height: 1.4; color: var(--acc-muted); }
+
+.igt-acc > section { margin: 0; padding: 28px 0; border-top: 1px solid var(--acc-line); }
+.igt-acc > section:first-of-type { border-top: 0; padding-top: 0; }
+.igt-acc .section-grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px 36px; }
+.igt-acc .section-head h5 { margin: 0; font-size: 16px; line-height: 1.3; font-weight: 600; letter-spacing: -0.01em; color: var(--acc-ink); }
+.igt-acc .section-head p { margin: 6px 0 0; max-width: 26ch; font-size: 13px; line-height: 1.5; color: var(--acc-muted); }
+.igt-acc .section-body { min-width: 0; }
+.igt-acc .item { margin: 0 0 16px; max-width: 66ch; color: var(--acc-ink-2); }
+.igt-acc .item:last-child { margin-bottom: 0; }
+.igt-acc .item strong { font-weight: 600; color: var(--acc-ink); }
+
+.igt-acc figure { margin: 22px 0 6px; overflow-x: auto; }
+.igt-acc figure svg { display: block; width: 100%; min-width: 560px; max-width: 680px; height: auto; }
+.igt-acc figcaption { margin-top: 10px; max-width: 66ch; font-size: 13px; line-height: 1.5; color: var(--acc-muted); }
+.igt-acc svg text { font-family: inherit; }
+.igt-acc svg .th { font-size: 14px; font-weight: 500; }
+.igt-acc svg .ts { font-size: 12px; font-weight: 400; }
+.igt-acc svg .arr { stroke: var(--acc-line-strong); stroke-width: 1.5; fill: none; }
+.igt-acc svg .arrhead { fill: none; stroke: var(--acc-line-strong); stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round; }
+.igt-acc .f-teal rect { fill: var(--acc-teal-fill); stroke: var(--acc-teal-line); }
+.igt-acc .f-teal .th { fill: var(--acc-teal-text); } .igt-acc .f-teal .ts { fill: var(--acc-teal-sub); }
+.igt-acc .f-purple rect { fill: var(--acc-purple-fill); stroke: var(--acc-purple-line); }
+.igt-acc .f-purple .th { fill: var(--acc-purple-text); } .igt-acc .f-purple .ts { fill: var(--acc-purple-sub); }
+.igt-acc .f-coral rect { fill: var(--acc-coral-fill); stroke: var(--acc-coral-line); }
+.igt-acc .f-coral .th { fill: var(--acc-coral-text); } .igt-acc .f-coral .ts { fill: var(--acc-coral-sub); }
+.igt-acc .f-gray rect { fill: var(--acc-gray-fill); stroke: var(--acc-gray-line); }
+.igt-acc .f-gray .th { fill: var(--acc-gray-text); } .igt-acc .f-gray .ts { fill: var(--acc-gray-sub); }
+
+.igt-acc .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 0; padding: 0; list-style: none; }
+.igt-acc .tags li { margin: 0; padding: 5px 10px; font-size: 13px; line-height: 1.4; color: var(--acc-ink); background: var(--acc-tag-bg); border-radius: 4px; list-style: none; }
+.igt-acc .tags.adjacent li { background: transparent; border: 1px dashed var(--acc-line-strong); color: var(--acc-ink-2); }
+.igt-acc .tag-lead { margin: 18px 0 0; font-size: 13px; color: var(--acc-muted); }
+.igt-acc .tag-lead + .tags { margin-top: 8px; }
+
+@container igt-acc (min-width: 360px) {
+  .igt-acc .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@container igt-acc (min-width: 600px) {
+  .igt-acc .section-grid { grid-template-columns: 190px minmax(0, 1fr); }
+}
+@container igt-acc (min-width: 700px) {
+  .igt-acc .metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .igt-acc .tile .num { font-size: 36px; }
+}
+</style>
+
+<div class="igt-acc">
+  <header>
+    <h4>Web Services: recent accomplishments and impact</h4>
+    <p class="lede">A summary of program leadership, operational improvements, and hands-on delivery across the web ecosystem at IGT.</p>
+    <p class="meta">Prepared October 2026</p>
+  </header>
+
+  <div class="metrics" role="list" aria-label="Headline metrics">
+    <div class="tile" role="listitem">
+      <span class="num accent">$150K+</span>
+      <span class="label">Cost reduction</span>
+      <span class="sub">Web services team</span>
+    </div>
+    <div class="tile" role="listitem">
+      <span class="num accent">700+</span>
+      <span class="label">Web requests completed</span>
+      <span class="sub">Personally delivered</span>
+    </div>
+    <div class="tile" role="listitem">
+      <span class="num">~230</span>
+      <span class="label">Requests per year</span>
+      <span class="sub">Sustained annual pace</span>
+    </div>
+    <div class="tile" role="listitem">
+      <span class="num">3 yrs</span>
+      <span class="label">Tenure at IGT</span>
+      <span class="sub">Leading web services</span>
+    </div>
+  </div>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h5>Cost management and operational efficiency</h5>
+        <p>Savings, platform governance, and repeatable intake processes</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Reduced Web Services team costs by more than $150K.</strong> Identified and eliminated redundant tooling, vendor spend, and process inefficiencies across the web services function, delivering savings that can be redirected toward higher-value initiatives.</p>
+        <p class="item"><strong>Operationalized the Bynder digital asset management platform.</strong> Resolved structural issues in asset taxonomy and permission sets, transforming Bynder from a partially adopted tool into a governed, reliable system of record for brand and marketing assets.</p>
+        <p class="item"><strong>Established workstreams and intake flows for marketing teams.</strong> Designed and implemented processes that allow marketing stakeholders to submit, track, and manage web-related requests, improving visibility, reducing ad-hoc asks, and creating a predictable pipeline for the web team.</p>
+        <figure>
+          <svg viewBox="0 0 680 120" role="img" xmlns="http://www.w3.org/2000/svg">
+            <title>Marketing web request intake flow</title>
+            <desc>Marketing teams submit and track work through an intake workflow built on ServiceNow and Jira, which feeds the web services team to prioritize and deliver.</desc>
+            <g class="f-coral">
+              <rect x="40" y="30" width="180" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="130" y="48" text-anchor="middle" dominant-baseline="central">Marketing teams</text>
+              <text class="ts" x="130" y="68" text-anchor="middle" dominant-baseline="central">Submit and track work</text>
+            </g>
+            <line x1="220" y1="58" x2="248" y2="58" class="arr"/>
+            <path class="arrhead" d="M242.6 61.6L248 58L242.6 54.4"/>
+            <g class="f-gray">
+              <rect x="250" y="30" width="180" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="340" y="48" text-anchor="middle" dominant-baseline="central">Intake workflow</text>
+              <text class="ts" x="340" y="68" text-anchor="middle" dominant-baseline="central">ServiceNow and Jira</text>
+            </g>
+            <line x1="430" y1="58" x2="458" y2="58" class="arr"/>
+            <path class="arrhead" d="M452.6 61.6L458 58L452.6 54.4"/>
+            <g class="f-teal">
+              <rect x="460" y="30" width="180" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="550" y="48" text-anchor="middle" dominant-baseline="central">Web services team</text>
+              <text class="ts" x="550" y="68" text-anchor="middle" dominant-baseline="central">Prioritize and deliver</text>
+            </g>
+          </svg>
+          <figcaption>Marketing request intake: requesters submit and track their own work, and the web team receives a prioritized queue.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h5>Program and project leadership</h5>
+        <p>Enterprise rebrand and the end-to-end web rebuild</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Led and deployed an enterprise-level rebrand across the web ecosystem.</strong> Owned end-to-end execution of the rebrand across all web properties, coordinating design, content, development, and QA to deliver a consistent brand experience on schedule.</p>
+        <p class="item"><strong>Leading the end-to-end web rebuild program.</strong> Serving as the primary owner for the rebuild, partnering with internal IGT teams and vendor BlueModus to deliver UX design, API development, content strategy, and web data architecture. Responsible for scope, prioritization, vendor accountability, and alignment with business objectives.</p>
+        <figure>
+          <svg viewBox="0 0 680 360" role="img" xmlns="http://www.w3.org/2000/svg">
+            <title>Web rebuild program scope</title>
+            <desc>Internal IGT teams and the vendor BlueModus feed into a web rebuild program led end to end, which contains four workstreams: UX design, API builds, content strategy, and web data architecture.</desc>
+            <g class="f-gray">
+              <rect x="120" y="40" width="200" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="220" y="58" text-anchor="middle" dominant-baseline="central">Internal IGT teams</text>
+              <text class="ts" x="220" y="78" text-anchor="middle" dominant-baseline="central">Marketing, IT, brand</text>
+            </g>
+            <g class="f-gray">
+              <rect x="360" y="40" width="200" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="460" y="58" text-anchor="middle" dominant-baseline="central">BlueModus</text>
+              <text class="ts" x="460" y="78" text-anchor="middle" dominant-baseline="central">Implementation vendor</text>
+            </g>
+            <line x1="220" y1="96" x2="220" y2="132" class="arr"/>
+            <path class="arrhead" d="M216.4 126.6L220 132L223.6 126.6"/>
+            <line x1="460" y1="96" x2="460" y2="132" class="arr"/>
+            <path class="arrhead" d="M456.4 126.6L460 132L463.6 126.6"/>
+            <g class="f-purple">
+              <rect x="40" y="140" width="600" height="200" rx="16" stroke-width="1" stroke-dasharray="6 4"/>
+              <text class="th" x="340" y="166" text-anchor="middle" dominant-baseline="central">Web rebuild program</text>
+            </g>
+            <g class="f-teal">
+              <rect x="60" y="190" width="270" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="195" y="208" text-anchor="middle" dominant-baseline="central">UX design</text>
+              <text class="ts" x="195" y="228" text-anchor="middle" dominant-baseline="central">Experience and interface</text>
+            </g>
+            <g class="f-teal">
+              <rect x="350" y="190" width="270" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="485" y="208" text-anchor="middle" dominant-baseline="central">API builds</text>
+              <text class="ts" x="485" y="228" text-anchor="middle" dominant-baseline="central">Integrations and services</text>
+            </g>
+            <g class="f-teal">
+              <rect x="60" y="262" width="270" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="195" y="280" text-anchor="middle" dominant-baseline="central">Content strategy</text>
+              <text class="ts" x="195" y="300" text-anchor="middle" dominant-baseline="central">Structure and governance</text>
+            </g>
+            <g class="f-teal">
+              <rect x="350" y="262" width="270" height="56" rx="8" stroke-width="1"/>
+              <text class="th" x="485" y="280" text-anchor="middle" dominant-baseline="central">Web data architecture</text>
+              <text class="ts" x="485" y="300" text-anchor="middle" dominant-baseline="central">Models and taxonomy</text>
+            </g>
+          </svg>
+          <figcaption>Web rebuild program: internal teams and the vendor feed four coordinated workstreams under single ownership.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h5>Strategy and executive engagement</h5>
+        <p>Digital ecosystem direction and leadership reporting</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Orchestrating digital ecosystem strategy for web and omnichannel.</strong> Defining how web channels fit within the broader omnichannel experience, ensuring platform, content, and data decisions support long-term digital goals rather than isolated projects.</p>
+        <p class="item"><strong>Delivering regular reporting to the CIO, SVPs, Senior Directors, and the broader SLT.</strong> Providing consistent updates on program status, risks, costs, and outcomes, enabling informed executive decision-making and maintaining leadership confidence in the web portfolio.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h5>Team leadership and delivery</h5>
+        <p>Leading the team while staying hands-on</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Personally completed more than 700 web requests over a three-year tenure at IGT.</strong> Averaging roughly 230 requests a year, this reflects a sustained, hands-on delivery record maintained alongside program and team leadership responsibilities, demonstrating both individual throughput and the ability to scale beyond it.</p>
+        <p class="item"><strong>Sustained effective leadership of the Web Services team.</strong> Supported team members in executing their responsibilities, removed blockers, and maintained delivery quality through a period of significant change across the rebrand, rebuild, and new tooling.</p>
+        <p class="item"><strong>Proactively resolved team and cross-functional issues.</strong> Addressed pipeline bottlenecks and communication gaps as they emerged, keeping work moving and preserving healthy working relationships across teams and vendors.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-grid">
+      <div class="section-head">
+        <h5>Technical breadth</h5>
+        <p>Platforms used to deliver this work</p>
+      </div>
+      <div class="section-body">
+        <p class="item"><strong>Leveraged a diverse technology stack to execute responsibilities.</strong> Bridged business, creative, and technical domains across service management, digital asset management, content management, project tracking, creative tooling, AI assistance, and cloud infrastructure.</p>
+        <p class="item"><strong>Working familiarity with adjacent enterprise systems.</strong> Regularly collaborated with the teams that own Azure DevOps and Blob Storage, SQL Server, SAP, Matrix, and Airtable. Exposure here is adjacent rather than hands-on: enough to coordinate dependencies, understand how data moves between these systems and the web ecosystem, and partner effectively with their owners, without claiming depth in the platforms themselves.</p>
+        <p class="tag-lead">Primary platforms</p>
+        <ul class="tags" aria-label="Primary platforms">
+          <li>ServiceNow</li>
+          <li>Bynder</li>
+          <li>Kentico</li>
+          <li>Jira</li>
+          <li>Adobe Creative Cloud</li>
+          <li>Claude</li>
+          <li>AWS</li>
+        </ul>
+        <p class="tag-lead">Adjacent systems, working familiarity</p>
+        <ul class="tags adjacent" aria-label="Adjacent systems">
+          <li>Azure DevOps</li>
+          <li>Azure Blob Storage</li>
+          <li>SQL Server</li>
+          <li>SAP</li>
+          <li>Matrix</li>
+          <li>Airtable</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</div>
+
               <ul class="list-unstyled my-4" style="font-size: 14px; gap: 10px; display: flex; flex-direction: column;">
                 <li>Manage web content and digital asset workflows through Bynder DAM, establishing reliable asset taxonomy, permission structures, and governance practices.</li>
                 <li>Personally completed 700+ web requests and counting at IGT, sustaining a high volume of hands-on delivery alongside increasing leadership responsibilities.</li>
